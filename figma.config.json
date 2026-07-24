@@ -1,9 +1,0 @@
-{
-  "codeConnect": {
-    "include": ["**/*.{tsx,ts,jsx,js,swift,kt,vue}"],
-    "exclude": ["**/node_modules/**"]
-  },
-  "documentUrlSubstitutions": {
-    "FIGMA_FILE_KEY": "ZQUZPLhNQpj5Fr64OSEUzi"
-  }
-}
