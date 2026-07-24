@@ -15,15 +15,25 @@ Use this as the connected GitHub repo when live-testing:
 | `src/components/ui/button.tsx` | High-confidence name match for Figma **Button** |
 | `src/components/ui/card.tsx` | High-confidence name match for Figma **Card** |
 | `src/components/ui/badge.tsx` | High-confidence name match for Figma **Badge** |
-| `src/components/ui/mystery-widget.tsx` | Repo-only / no canvas match (dropdown “Not found” cases) |
+| `src/components/ui/mystery-widget.tsx` | Repo-only / no canvas match |
+| `src/components/ui/snack-notice.tsx` | **Name mismatch** — pairs with Figma **Callout** (not SnackNotice) |
+
+## Figma canvas checklist
+
+| Figma ComponentSet | Repo file | Expected Changes path |
+| --- | --- | --- |
+| **Button**, **Card**, **Badge** | matching `*.tsx` names | auto-confirm → plain push |
+| **Toast** | *(none)* | Missing in repo → Push to repo |
+| **Callout** (`variant`: default / destructive / info) | `snack-notice.tsx` (**SnackNotice**) | Missing in repo → pick file → **Confirm** → Keep Figma / Keep Repo |
+| *(none)* | `mystery-widget.tsx` | Missing in Figma / Restore (when orphan rows ship) |
+
+**Callout** must not be named SnackNotice — the mismatch is the point of the Confirm flow.
 
 ## Suggested live smoke
 
-1. In a Figma file, create ComponentSets named **Button**, **Card**, **Badge** (variants optional but better if `variant`/`size` axes exist on Button).
+1. Create the Figma ComponentSets in the table above (Callout needs the three `variant` values).
 2. Connect `https://github.com/JBabcock-DL/sampleRepo` in FigHub.
-3. Expect ConnectWizard activity: discover → match → verify.
-4. Changes: conflict tiles for unspecced components; typeahead can point at `src/components/ui/*.tsx`.
-5. Push tokens → `tokens.json` stays without new ids; `design/.fighub/token-ids.json` appears.
-6. Push a confirmed component → spec JSON under your specs path; **no** generated component code under `design/generated/`.
+3. Button/Card/Badge auto-confirm; Toast = push-as-new; Callout → select `src/components/ui/snack-notice.tsx` → Confirm → Keep Figma or Keep Repo.
+4. Push tokens → `tokens.json` stays without new ids; `design/.fighub/token-ids.json` appears.
 
 Repo URL: https://github.com/JBabcock-DL/sampleRepo
