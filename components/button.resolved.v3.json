@@ -1,0 +1,2216 @@
+{
+  "v": 3,
+  "kind": "resolved-draw-spec",
+  "component": "button",
+  "source": "browser-snapshot",
+  "combos": {
+    "size=default, variant=default": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 8,
+        "columnGap": 8,
+        "rowGap": 8,
+        "padding": {
+          "t": 8,
+          "r": 16,
+          "b": 8,
+          "l": 16
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 75.2,
+        "height": 36,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 0.0572,
+          "g": 0.09,
+          "b": 0.1688,
+          "a": 1
+        },
+        "variablePath": "color/primary/default",
+        "classToken": "bg-primary"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/20",
+          "classToken": "gap-2"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/40",
+          "classToken": "px-4"
+        },
+        {
+          "field": "paddingV",
+          "variablePath": "padding/y-axis/20",
+          "classToken": "py-2"
+        }
+      ],
+      "text": {
+        "content": "Button",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.9731,
+            "g": 0.98,
+            "b": 0.9869,
+            "a": 1
+          },
+          "variablePath": "color/primary/foreground",
+          "classToken": "text-primary-foreground"
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=default, variant=destructive": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 8,
+        "columnGap": 8,
+        "rowGap": 8,
+        "padding": {
+          "t": 8,
+          "r": 16,
+          "b": 8,
+          "l": 16
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 103.7,
+        "height": 36,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 0.9065,
+          "g": 0,
+          "b": 0.0422,
+          "a": 1
+        },
+        "variablePath": "color/destructive/default",
+        "classToken": "bg-destructive"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/20",
+          "classToken": "gap-2"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/40",
+          "classToken": "px-4"
+        },
+        {
+          "field": "paddingV",
+          "variablePath": "padding/y-axis/20",
+          "classToken": "py-2"
+        }
+      ],
+      "text": {
+        "content": "Destructive",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          },
+          "variablePath": "color/destructive/foreground",
+          "classToken": "text-white"
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=default, variant=outline": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 8,
+        "columnGap": 8,
+        "rowGap": 8,
+        "padding": {
+          "t": 8,
+          "r": 16,
+          "b": 8,
+          "l": 16
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 80.7,
+        "height": 36,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        },
+        "variablePath": "color/bg/background",
+        "classToken": "bg-background"
+      },
+      "strokes": {
+        "weights": {
+          "t": 1,
+          "r": 1,
+          "b": 1,
+          "l": 1
+        },
+        "color": {
+          "color": {
+            "r": 0.886,
+            "g": 0.9102,
+            "b": 0.9425,
+            "a": 1
+          },
+          "variablePath": "color/border/default",
+          "classToken": "border"
+        }
+      },
+      "shadow": [
+        {
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.05
+          },
+          "offsetX": 0,
+          "offsetY": 1,
+          "blur": 2,
+          "spread": 0,
+          "classToken": "shadow-xs"
+        }
+      ],
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/20",
+          "classToken": "gap-2"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/40",
+          "classToken": "px-4"
+        },
+        {
+          "field": "paddingV",
+          "variablePath": "padding/y-axis/20",
+          "classToken": "py-2"
+        }
+      ],
+      "text": {
+        "content": "Outline",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.0074,
+            "g": 0.0233,
+            "b": 0.0925,
+            "a": 1
+          },
+          "variablePath": null
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=default, variant=secondary": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 8,
+        "columnGap": 8,
+        "rowGap": 8,
+        "padding": {
+          "t": 8,
+          "r": 16,
+          "b": 8,
+          "l": 16
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 98.8,
+        "height": 36,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 0.9445,
+          "g": 0.9605,
+          "b": 0.9765,
+          "a": 1
+        },
+        "variablePath": "color/secondary/default",
+        "classToken": "bg-secondary"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/20",
+          "classToken": "gap-2"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/40",
+          "classToken": "px-4"
+        },
+        {
+          "field": "paddingV",
+          "variablePath": "padding/y-axis/20",
+          "classToken": "py-2"
+        }
+      ],
+      "text": {
+        "content": "Secondary",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.0572,
+            "g": 0.09,
+            "b": 0.1688,
+            "a": 1
+          },
+          "variablePath": "color/secondary/foreground",
+          "classToken": "text-secondary-foreground"
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=default, variant=ghost": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 8,
+        "columnGap": 8,
+        "rowGap": 8,
+        "padding": {
+          "t": 8,
+          "r": 16,
+          "b": 8,
+          "l": 16
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 69.4,
+        "height": 36,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/20",
+          "classToken": "gap-2"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/40",
+          "classToken": "px-4"
+        },
+        {
+          "field": "paddingV",
+          "variablePath": "padding/y-axis/20",
+          "classToken": "py-2"
+        }
+      ],
+      "text": {
+        "content": "Ghost",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.0074,
+            "g": 0.0233,
+            "b": 0.0925,
+            "a": 1
+          },
+          "variablePath": null
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=default, variant=link": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 8,
+        "columnGap": 8,
+        "rowGap": 8,
+        "padding": {
+          "t": 8,
+          "r": 16,
+          "b": 8,
+          "l": 16
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 58,
+        "height": 36,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/20",
+          "classToken": "gap-2"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/40",
+          "classToken": "px-4"
+        },
+        {
+          "field": "paddingV",
+          "variablePath": "padding/y-axis/20",
+          "classToken": "py-2"
+        }
+      ],
+      "text": {
+        "content": "Link",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.0572,
+            "g": 0.09,
+            "b": 0.1688,
+            "a": 1
+          },
+          "variablePath": "color/text/primary",
+          "classToken": "text-primary"
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=xs, variant=default": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 4,
+        "columnGap": 4,
+        "rowGap": 4,
+        "padding": {
+          "t": 0,
+          "r": 8,
+          "b": 0,
+          "l": 8
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 53,
+        "height": 24,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 0.0572,
+          "g": 0.09,
+          "b": 0.1688,
+          "a": 1
+        },
+        "variablePath": "color/primary/default",
+        "classToken": "bg-primary"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/10",
+          "classToken": "gap-1"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/20",
+          "classToken": "px-2"
+        }
+      ],
+      "text": {
+        "content": "Button",
+        "fontSize": 12,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.9731,
+            "g": 0.98,
+            "b": 0.9869,
+            "a": 1
+          },
+          "variablePath": "color/primary/foreground",
+          "classToken": "text-primary-foreground"
+        },
+        "lineHeight": 16,
+        "textAlign": "CENTER",
+        "textStyle": "text/xs"
+      },
+      "children": []
+    },
+    "size=xs, variant=destructive": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 4,
+        "columnGap": 4,
+        "rowGap": 4,
+        "padding": {
+          "t": 0,
+          "r": 8,
+          "b": 0,
+          "l": 8
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 77.4,
+        "height": 24,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 0.9065,
+          "g": 0,
+          "b": 0.0422,
+          "a": 1
+        },
+        "variablePath": "color/destructive/default",
+        "classToken": "bg-destructive"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/10",
+          "classToken": "gap-1"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/20",
+          "classToken": "px-2"
+        }
+      ],
+      "text": {
+        "content": "Destructive",
+        "fontSize": 12,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          },
+          "variablePath": "color/destructive/foreground",
+          "classToken": "text-white"
+        },
+        "lineHeight": 16,
+        "textAlign": "CENTER",
+        "textStyle": "text/xs"
+      },
+      "children": []
+    },
+    "size=xs, variant=outline": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 4,
+        "columnGap": 4,
+        "rowGap": 4,
+        "padding": {
+          "t": 0,
+          "r": 8,
+          "b": 0,
+          "l": 8
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 58.1,
+        "height": 24,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        },
+        "variablePath": "color/bg/background",
+        "classToken": "bg-background"
+      },
+      "strokes": {
+        "weights": {
+          "t": 1,
+          "r": 1,
+          "b": 1,
+          "l": 1
+        },
+        "color": {
+          "color": {
+            "r": 0.886,
+            "g": 0.9102,
+            "b": 0.9425,
+            "a": 1
+          },
+          "variablePath": "color/border/default",
+          "classToken": "border"
+        }
+      },
+      "shadow": [
+        {
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.05
+          },
+          "offsetX": 0,
+          "offsetY": 1,
+          "blur": 2,
+          "spread": 0,
+          "classToken": "shadow-xs"
+        }
+      ],
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/10",
+          "classToken": "gap-1"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/20",
+          "classToken": "px-2"
+        }
+      ],
+      "text": {
+        "content": "Outline",
+        "fontSize": 12,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.0074,
+            "g": 0.0233,
+            "b": 0.0925,
+            "a": 1
+          },
+          "variablePath": null
+        },
+        "lineHeight": 16,
+        "textAlign": "CENTER",
+        "textStyle": "text/xs"
+      },
+      "children": []
+    },
+    "size=xs, variant=secondary": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 4,
+        "columnGap": 4,
+        "rowGap": 4,
+        "padding": {
+          "t": 0,
+          "r": 8,
+          "b": 0,
+          "l": 8
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 73.2,
+        "height": 24,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 0.9445,
+          "g": 0.9605,
+          "b": 0.9765,
+          "a": 1
+        },
+        "variablePath": "color/secondary/default",
+        "classToken": "bg-secondary"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/10",
+          "classToken": "gap-1"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/20",
+          "classToken": "px-2"
+        }
+      ],
+      "text": {
+        "content": "Secondary",
+        "fontSize": 12,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.0572,
+            "g": 0.09,
+            "b": 0.1688,
+            "a": 1
+          },
+          "variablePath": "color/secondary/foreground",
+          "classToken": "text-secondary-foreground"
+        },
+        "lineHeight": 16,
+        "textAlign": "CENTER",
+        "textStyle": "text/xs"
+      },
+      "children": []
+    },
+    "size=xs, variant=ghost": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 4,
+        "columnGap": 4,
+        "rowGap": 4,
+        "padding": {
+          "t": 0,
+          "r": 8,
+          "b": 0,
+          "l": 8
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 48,
+        "height": 24,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/10",
+          "classToken": "gap-1"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/20",
+          "classToken": "px-2"
+        }
+      ],
+      "text": {
+        "content": "Ghost",
+        "fontSize": 12,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.0074,
+            "g": 0.0233,
+            "b": 0.0925,
+            "a": 1
+          },
+          "variablePath": null
+        },
+        "lineHeight": 16,
+        "textAlign": "CENTER",
+        "textStyle": "text/xs"
+      },
+      "children": []
+    },
+    "size=xs, variant=link": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 4,
+        "columnGap": 4,
+        "rowGap": 4,
+        "padding": {
+          "t": 0,
+          "r": 8,
+          "b": 0,
+          "l": 8
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 38.3,
+        "height": 24,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/10",
+          "classToken": "gap-1"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/20",
+          "classToken": "px-2"
+        }
+      ],
+      "text": {
+        "content": "Link",
+        "fontSize": 12,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.0572,
+            "g": 0.09,
+            "b": 0.1688,
+            "a": 1
+          },
+          "variablePath": "color/text/primary",
+          "classToken": "text-primary"
+        },
+        "lineHeight": 16,
+        "textAlign": "CENTER",
+        "textStyle": "text/xs"
+      },
+      "children": []
+    },
+    "size=sm, variant=default": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 6,
+        "columnGap": 6,
+        "rowGap": 6,
+        "padding": {
+          "t": 0,
+          "r": 12,
+          "b": 0,
+          "l": 12
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 67.2,
+        "height": 32,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 0.0572,
+          "g": 0.09,
+          "b": 0.1688,
+          "a": 1
+        },
+        "variablePath": "color/primary/default",
+        "classToken": "bg-primary"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/15",
+          "classToken": "gap-1.5"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/30",
+          "classToken": "px-3"
+        }
+      ],
+      "text": {
+        "content": "Button",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.9731,
+            "g": 0.98,
+            "b": 0.9869,
+            "a": 1
+          },
+          "variablePath": "color/primary/foreground",
+          "classToken": "text-primary-foreground"
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=sm, variant=destructive": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 6,
+        "columnGap": 6,
+        "rowGap": 6,
+        "padding": {
+          "t": 0,
+          "r": 12,
+          "b": 0,
+          "l": 12
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 95.7,
+        "height": 32,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 0.9065,
+          "g": 0,
+          "b": 0.0422,
+          "a": 1
+        },
+        "variablePath": "color/destructive/default",
+        "classToken": "bg-destructive"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/15",
+          "classToken": "gap-1.5"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/30",
+          "classToken": "px-3"
+        }
+      ],
+      "text": {
+        "content": "Destructive",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          },
+          "variablePath": "color/destructive/foreground",
+          "classToken": "text-white"
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=sm, variant=outline": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 6,
+        "columnGap": 6,
+        "rowGap": 6,
+        "padding": {
+          "t": 0,
+          "r": 12,
+          "b": 0,
+          "l": 12
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 72.7,
+        "height": 32,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        },
+        "variablePath": "color/bg/background",
+        "classToken": "bg-background"
+      },
+      "strokes": {
+        "weights": {
+          "t": 1,
+          "r": 1,
+          "b": 1,
+          "l": 1
+        },
+        "color": {
+          "color": {
+            "r": 0.886,
+            "g": 0.9102,
+            "b": 0.9425,
+            "a": 1
+          },
+          "variablePath": "color/border/default",
+          "classToken": "border"
+        }
+      },
+      "shadow": [
+        {
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.05
+          },
+          "offsetX": 0,
+          "offsetY": 1,
+          "blur": 2,
+          "spread": 0,
+          "classToken": "shadow-xs"
+        }
+      ],
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/15",
+          "classToken": "gap-1.5"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/30",
+          "classToken": "px-3"
+        }
+      ],
+      "text": {
+        "content": "Outline",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.0074,
+            "g": 0.0233,
+            "b": 0.0925,
+            "a": 1
+          },
+          "variablePath": null
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=sm, variant=secondary": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 6,
+        "columnGap": 6,
+        "rowGap": 6,
+        "padding": {
+          "t": 0,
+          "r": 12,
+          "b": 0,
+          "l": 12
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 90.8,
+        "height": 32,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 0.9445,
+          "g": 0.9605,
+          "b": 0.9765,
+          "a": 1
+        },
+        "variablePath": "color/secondary/default",
+        "classToken": "bg-secondary"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/15",
+          "classToken": "gap-1.5"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/30",
+          "classToken": "px-3"
+        }
+      ],
+      "text": {
+        "content": "Secondary",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.0572,
+            "g": 0.09,
+            "b": 0.1688,
+            "a": 1
+          },
+          "variablePath": "color/secondary/foreground",
+          "classToken": "text-secondary-foreground"
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=sm, variant=ghost": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 6,
+        "columnGap": 6,
+        "rowGap": 6,
+        "padding": {
+          "t": 0,
+          "r": 12,
+          "b": 0,
+          "l": 12
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 61.4,
+        "height": 32,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/15",
+          "classToken": "gap-1.5"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/30",
+          "classToken": "px-3"
+        }
+      ],
+      "text": {
+        "content": "Ghost",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.0074,
+            "g": 0.0233,
+            "b": 0.0925,
+            "a": 1
+          },
+          "variablePath": null
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=sm, variant=link": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 6,
+        "columnGap": 6,
+        "rowGap": 6,
+        "padding": {
+          "t": 0,
+          "r": 12,
+          "b": 0,
+          "l": 12
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "hug",
+        "sizingV": "fixed",
+        "width": 50,
+        "height": 32,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/15",
+          "classToken": "gap-1.5"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/30",
+          "classToken": "px-3"
+        }
+      ],
+      "text": {
+        "content": "Link",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.0572,
+            "g": 0.09,
+            "b": 0.1688,
+            "a": 1
+          },
+          "variablePath": "color/text/primary",
+          "classToken": "text-primary"
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=lg, variant=default": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 8,
+        "columnGap": 8,
+        "rowGap": 8,
+        "padding": {
+          "t": 0,
+          "r": 24,
+          "b": 0,
+          "l": 24
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "fixed",
+        "sizingV": "fixed",
+        "width": 91.2,
+        "height": 40,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 0.0572,
+          "g": 0.09,
+          "b": 0.1688,
+          "a": 1
+        },
+        "variablePath": "color/primary/default",
+        "classToken": "bg-primary"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/20",
+          "classToken": "gap-2"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/60",
+          "classToken": "px-6"
+        }
+      ],
+      "text": {
+        "content": "Button",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.9731,
+            "g": 0.98,
+            "b": 0.9869,
+            "a": 1
+          },
+          "variablePath": "color/primary/foreground",
+          "classToken": "text-primary-foreground"
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=lg, variant=destructive": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 8,
+        "columnGap": 8,
+        "rowGap": 8,
+        "padding": {
+          "t": 0,
+          "r": 24,
+          "b": 0,
+          "l": 24
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "fixed",
+        "sizingV": "fixed",
+        "width": 119.7,
+        "height": 40,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 0.9065,
+          "g": 0,
+          "b": 0.0422,
+          "a": 1
+        },
+        "variablePath": "color/destructive/default",
+        "classToken": "bg-destructive"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/20",
+          "classToken": "gap-2"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/60",
+          "classToken": "px-6"
+        }
+      ],
+      "text": {
+        "content": "Destructive",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          },
+          "variablePath": "color/destructive/foreground",
+          "classToken": "text-white"
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=lg, variant=outline": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 8,
+        "columnGap": 8,
+        "rowGap": 8,
+        "padding": {
+          "t": 0,
+          "r": 24,
+          "b": 0,
+          "l": 24
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "fixed",
+        "sizingV": "fixed",
+        "width": 96.7,
+        "height": 40,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        },
+        "variablePath": "color/bg/background",
+        "classToken": "bg-background"
+      },
+      "strokes": {
+        "weights": {
+          "t": 1,
+          "r": 1,
+          "b": 1,
+          "l": 1
+        },
+        "color": {
+          "color": {
+            "r": 0.886,
+            "g": 0.9102,
+            "b": 0.9425,
+            "a": 1
+          },
+          "variablePath": "color/border/default",
+          "classToken": "border"
+        }
+      },
+      "shadow": [
+        {
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.05
+          },
+          "offsetX": 0,
+          "offsetY": 1,
+          "blur": 2,
+          "spread": 0,
+          "classToken": "shadow-xs"
+        }
+      ],
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/20",
+          "classToken": "gap-2"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/60",
+          "classToken": "px-6"
+        }
+      ],
+      "text": {
+        "content": "Outline",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.0074,
+            "g": 0.0233,
+            "b": 0.0925,
+            "a": 1
+          },
+          "variablePath": null
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=lg, variant=secondary": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 8,
+        "columnGap": 8,
+        "rowGap": 8,
+        "padding": {
+          "t": 0,
+          "r": 24,
+          "b": 0,
+          "l": 24
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "fixed",
+        "sizingV": "fixed",
+        "width": 114.8,
+        "height": 40,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 0.9445,
+          "g": 0.9605,
+          "b": 0.9765,
+          "a": 1
+        },
+        "variablePath": "color/secondary/default",
+        "classToken": "bg-secondary"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/20",
+          "classToken": "gap-2"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/60",
+          "classToken": "px-6"
+        }
+      ],
+      "text": {
+        "content": "Secondary",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.0572,
+            "g": 0.09,
+            "b": 0.1688,
+            "a": 1
+          },
+          "variablePath": "color/secondary/foreground",
+          "classToken": "text-secondary-foreground"
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=lg, variant=ghost": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 8,
+        "columnGap": 8,
+        "rowGap": 8,
+        "padding": {
+          "t": 0,
+          "r": 24,
+          "b": 0,
+          "l": 24
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "fixed",
+        "sizingV": "fixed",
+        "width": 85.4,
+        "height": 40,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/20",
+          "classToken": "gap-2"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/60",
+          "classToken": "px-6"
+        }
+      ],
+      "text": {
+        "content": "Ghost",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.0074,
+            "g": 0.0233,
+            "b": 0.0925,
+            "a": 1
+          },
+          "variablePath": null
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=lg, variant=link": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 8,
+        "columnGap": 8,
+        "rowGap": 8,
+        "padding": {
+          "t": 0,
+          "r": 24,
+          "b": 0,
+          "l": 24
+        },
+        "align": "center",
+        "justify": "center",
+        "sizingH": "fixed",
+        "sizingV": "fixed",
+        "width": 74,
+        "height": 40,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/20",
+          "classToken": "gap-2"
+        },
+        {
+          "field": "paddingH",
+          "variablePath": "padding/x-axis/60",
+          "classToken": "px-6"
+        }
+      ],
+      "text": {
+        "content": "Link",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.0572,
+            "g": 0.09,
+            "b": 0.1688,
+            "a": 1
+          },
+          "variablePath": "color/text/primary",
+          "classToken": "text-primary"
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=icon, variant=default": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 8,
+        "columnGap": 8,
+        "rowGap": 8,
+        "align": "center",
+        "justify": "center",
+        "sizingH": "fixed",
+        "sizingV": "fixed",
+        "width": 36,
+        "height": 36,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 0.0572,
+          "g": 0.09,
+          "b": 0.1688,
+          "a": 1
+        },
+        "variablePath": "color/primary/default",
+        "classToken": "bg-primary"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/20",
+          "classToken": "gap-2"
+        }
+      ],
+      "text": {
+        "content": "+",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.9731,
+            "g": 0.98,
+            "b": 0.9869,
+            "a": 1
+          },
+          "variablePath": "color/primary/foreground",
+          "classToken": "text-primary-foreground"
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=icon-xs, variant=default": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 8,
+        "columnGap": 8,
+        "rowGap": 8,
+        "align": "center",
+        "justify": "center",
+        "sizingH": "fixed",
+        "sizingV": "fixed",
+        "width": 24,
+        "height": 24,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 0.0572,
+          "g": 0.09,
+          "b": 0.1688,
+          "a": 1
+        },
+        "variablePath": "color/primary/default",
+        "classToken": "bg-primary"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/20",
+          "classToken": "gap-2"
+        }
+      ],
+      "text": {
+        "content": "+",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.9731,
+            "g": 0.98,
+            "b": 0.9869,
+            "a": 1
+          },
+          "variablePath": "color/primary/foreground",
+          "classToken": "text-primary-foreground"
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=icon-sm, variant=default": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 8,
+        "columnGap": 8,
+        "rowGap": 8,
+        "align": "center",
+        "justify": "center",
+        "sizingH": "fixed",
+        "sizingV": "fixed",
+        "width": 32,
+        "height": 32,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 0.0572,
+          "g": 0.09,
+          "b": 0.1688,
+          "a": 1
+        },
+        "variablePath": "color/primary/default",
+        "classToken": "bg-primary"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/20",
+          "classToken": "gap-2"
+        }
+      ],
+      "text": {
+        "content": "+",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.9731,
+            "g": 0.98,
+            "b": 0.9869,
+            "a": 1
+          },
+          "variablePath": "color/primary/foreground",
+          "classToken": "text-primary-foreground"
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    },
+    "size=icon-lg, variant=default": {
+      "name": "button",
+      "slot": "button",
+      "tag": "button",
+      "visible": true,
+      "layout": {
+        "mode": "horizontal",
+        "gap": 8,
+        "columnGap": 8,
+        "rowGap": 8,
+        "align": "center",
+        "justify": "center",
+        "sizingH": "fixed",
+        "sizingV": "fixed",
+        "width": 40,
+        "height": 40,
+        "strokesIncludedInLayout": true,
+        "layoutWrap": "NO_WRAP"
+      },
+      "fill": {
+        "color": {
+          "r": 0.0572,
+          "g": 0.09,
+          "b": 0.1688,
+          "a": 1
+        },
+        "variablePath": "color/primary/default",
+        "classToken": "bg-primary"
+      },
+      "radius": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "radiusBind": {
+        "variablePath": "radius/md",
+        "classToken": "rounded-md"
+      },
+      "layoutBinds": [
+        {
+          "field": "gap",
+          "variablePath": "gap/20",
+          "classToken": "gap-2"
+        }
+      ],
+      "text": {
+        "content": "+",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "color": {
+          "color": {
+            "r": 0.9731,
+            "g": 0.98,
+            "b": 0.9869,
+            "a": 1
+          },
+          "variablePath": "color/primary/foreground",
+          "classToken": "text-primary-foreground"
+        },
+        "lineHeight": 20,
+        "textAlign": "CENTER",
+        "textStyle": "text/sm"
+      },
+      "children": []
+    }
+  },
+  "unresolvedCombos": [
+    "size=icon, variant=destructive",
+    "size=icon, variant=outline",
+    "size=icon, variant=secondary",
+    "size=icon, variant=ghost",
+    "size=icon, variant=link",
+    "size=icon-xs, variant=destructive",
+    "size=icon-xs, variant=outline",
+    "size=icon-xs, variant=secondary",
+    "size=icon-xs, variant=ghost",
+    "size=icon-xs, variant=link",
+    "size=icon-sm, variant=destructive",
+    "size=icon-sm, variant=outline",
+    "size=icon-sm, variant=secondary",
+    "size=icon-sm, variant=ghost",
+    "size=icon-sm, variant=link",
+    "size=icon-lg, variant=destructive",
+    "size=icon-lg, variant=outline",
+    "size=icon-lg, variant=secondary",
+    "size=icon-lg, variant=ghost",
+    "size=icon-lg, variant=link"
+  ]
+}

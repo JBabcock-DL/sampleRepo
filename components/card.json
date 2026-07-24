@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "kind": "component-spec",
+  "name": "Card",
+  "framework": "react",
+  "id": "bef2c70b-8172-44ae-9ec1-aa104ccc130d",
+  "variantMatrix": {
+    "variant": [
+      "default",
+      "outlined",
+      "muted"
+    ],
+    "padding": [
+      "default",
+      "sm",
+      "lg",
+      "none"
+    ]
+  },
+  "props": [],
+  "bindings": [
+    {
+      "selector": "Card title.fill",
+      "variable": "color/foreground"
+    },
+    {
+      "selector": "Supporting content for the card..fill",
+      "variable": "color/foreground"
+    },
+    {
+      "selector": "root.bottomLeftRadius",
+      "variable": "radius/md"
+    },
+    {
+      "selector": "root.bottomRightRadius",
+      "variable": "radius/md"
+    },
+    {
+      "selector": "root.fill",
+      "variable": "color/background"
+    },
+    {
+      "selector": "root.fill",
+      "variable": "color/neutral/50"
+    },
+    {
+      "selector": "root.gap",
+      "variable": "space/2"
+    },
+    {
+      "selector": "root.paddingBottom",
+      "variable": "space/4"
+    },
+    {
+      "selector": "root.paddingLeft",
+      "variable": "space/4"
+    },
+    {
+      "selector": "root.paddingRight",
+      "variable": "space/4"
+    },
+    {
+      "selector": "root.paddingTop",
+      "variable": "space/4"
+    },
+    {
+      "selector": "root.stroke",
+      "variable": "color/neutral/900"
+    },
+    {
+      "selector": "root.stroke",
+      "variable": "color/primary"
+    },
+    {
+      "selector": "root.topLeftRadius",
+      "variable": "radius/md"
+    },
+    {
+      "selector": "root.topRightRadius",
+      "variable": "radius/md"
+    }
+  ],
+  "layout": {
+    "direction": "horizontal",
+    "gap": "8",
+    "sizing": {
+      "horizontal": "hug",
+      "vertical": "hug"
+    }
+  },
+  "slug": "card"
+}
