@@ -1,0 +1,84 @@
+{
+  "v": 1,
+  "kind": "component-spec",
+  "name": "Badge",
+  "framework": "react",
+  "id": "1f906de1-5d7b-4f35-bbd6-c84a96eff655",
+  "variantMatrix": {
+    "variant": [
+      "default",
+      "secondary",
+      "outline",
+      "destructive"
+    ]
+  },
+  "props": [],
+  "bindings": [
+    {
+      "selector": "Badge.fill",
+      "variable": "color/foreground"
+    },
+    {
+      "selector": "root.bottomLeftRadius",
+      "variable": "radius/md"
+    },
+    {
+      "selector": "root.bottomRightRadius",
+      "variable": "radius/md"
+    },
+    {
+      "selector": "root.fill",
+      "variable": "color/background"
+    },
+    {
+      "selector": "root.fill",
+      "variable": "color/destructive"
+    },
+    {
+      "selector": "root.fill",
+      "variable": "color/neutral/50"
+    },
+    {
+      "selector": "root.fill",
+      "variable": "color/primary"
+    },
+    {
+      "selector": "root.paddingBottom",
+      "variable": "space/1"
+    },
+    {
+      "selector": "root.paddingLeft",
+      "variable": "space/2"
+    },
+    {
+      "selector": "root.paddingRight",
+      "variable": "space/2"
+    },
+    {
+      "selector": "root.paddingTop",
+      "variable": "space/1"
+    },
+    {
+      "selector": "root.stroke",
+      "variable": "color/foreground"
+    },
+    {
+      "selector": "root.topLeftRadius",
+      "variable": "radius/md"
+    },
+    {
+      "selector": "root.topRightRadius",
+      "variable": "radius/md"
+    }
+  ],
+  "layout": {
+    "direction": "horizontal",
+    "gap": "8",
+    "padding": "10",
+    "sizing": {
+      "horizontal": "hug",
+      "vertical": "hug"
+    }
+  },
+  "slug": "badge"
+}
