@@ -1,0 +1,166 @@
+{
+  "v": 1,
+  "kind": "fighub-manifest",
+  "sha": "",
+  "writtenAt": "2026-07-25T00:17:48.398Z",
+  "items": [
+    {
+      "kind": "component",
+      "driftId": "cmp/0ecb350e-10c9-4800-add0-b3d6abeb0f99",
+      "repoHash": "a93f364c",
+      "figmaHash": "a93f364c"
+    },
+    {
+      "kind": "component",
+      "driftId": "cmp/1f906de1-5d7b-4f35-bbd6-c84a96eff655",
+      "repoHash": "1f114b1e",
+      "figmaHash": "ce169d38"
+    },
+    {
+      "kind": "component",
+      "driftId": "cmp/7fff1841-bca1-4a09-9d81-5d1df67edf32",
+      "repoHash": "0657e76d",
+      "figmaHash": "94ad3bec"
+    },
+    {
+      "kind": "component",
+      "driftId": "cmp/a1f202e7-e3d8-43b8-96fc-98cf82fdcf65",
+      "repoHash": "ccdade88",
+      "figmaHash": "ccdade88",
+      "sidecarAdopted": true
+    },
+    {
+      "kind": "component",
+      "driftId": "cmp/bef2c70b-8172-44ae-9ec1-aa104ccc130d",
+      "repoHash": "c24e0aa9",
+      "figmaHash": "9b2367c6"
+    },
+    {
+      "kind": "component",
+      "driftId": "cmp/mystery-widget",
+      "repoHash": "651d3d6b",
+      "figmaHash": "651d3d6b",
+      "sidecarAdopted": true
+    },
+    {
+      "kind": "style",
+      "driftId": "sty/text/body",
+      "repoHash": "090f8cd6",
+      "figmaHash": "090f8cd6",
+      "repoPath": "design/styles/text/body.json"
+    },
+    {
+      "kind": "style",
+      "driftId": "sty/text/card-title",
+      "repoHash": "64dcaf93",
+      "figmaHash": "64dcaf93",
+      "repoPath": "design/styles/text/card-title.json"
+    },
+    {
+      "kind": "style",
+      "driftId": "sty/text/heading-1",
+      "repoHash": "0c2454d0",
+      "figmaHash": "0c2454d0",
+      "repoPath": "design/styles/text/heading-1.json"
+    },
+    {
+      "kind": "style",
+      "driftId": "sty/text/label",
+      "repoHash": "b56e00b1",
+      "figmaHash": "b56e00b1",
+      "repoPath": "design/styles/text/label.json"
+    },
+    {
+      "kind": "style",
+      "driftId": "sty/text/label-lg",
+      "repoHash": "c5f82faf",
+      "figmaHash": "c5f82faf",
+      "repoPath": "design/styles/text/label-lg.json"
+    },
+    {
+      "kind": "style",
+      "driftId": "sty/text/label-sm",
+      "repoHash": "d9d62f9b",
+      "figmaHash": "d9d62f9b",
+      "repoPath": "design/styles/text/label-sm.json"
+    },
+    {
+      "kind": "token",
+      "driftId": "var/1028d27f-0ef0-484c-9a4a-92ad3e252dbd",
+      "repoHash": "479cb037",
+      "figmaHash": "479cb037"
+    },
+    {
+      "kind": "token",
+      "driftId": "var/106a0f72-9dcc-4c22-9f3a-e15c1f93bca5",
+      "repoHash": "6d0cbdc6",
+      "figmaHash": "6d0cbdc6"
+    },
+    {
+      "kind": "token",
+      "driftId": "var/19ce6702-6533-4776-a400-007e37866079",
+      "repoHash": "3b85ed28",
+      "figmaHash": "3b85ed28"
+    },
+    {
+      "kind": "token",
+      "driftId": "var/1c0436ee-b5ef-4e6a-bb35-1139d683d1b9",
+      "repoHash": "ef4abaee",
+      "figmaHash": "ef4abaee"
+    },
+    {
+      "kind": "token",
+      "driftId": "var/1c47e908-cf24-459a-91ef-9e6d53be7df4",
+      "repoHash": "2b4ecad7",
+      "figmaHash": "2b4ecad7"
+    },
+    {
+      "kind": "token",
+      "driftId": "var/390981aa-c26c-4aad-b6b0-702d3f6bf1a3",
+      "repoHash": "127a1535",
+      "figmaHash": "127a1535"
+    },
+    {
+      "kind": "token",
+      "driftId": "var/822961c4-3ced-4bea-bf86-ec43fabf21ce",
+      "repoHash": "10b86a6a",
+      "figmaHash": "10b86a6a"
+    },
+    {
+      "kind": "token",
+      "driftId": "var/badd2779-bc9f-4f34-bcbb-6c0038355bfa",
+      "repoHash": "c520e4bd",
+      "figmaHash": "c520e4bd"
+    },
+    {
+      "kind": "token",
+      "driftId": "var/cf93976f-b75c-4287-bf1b-0058a848d94c",
+      "repoHash": "80ddd3dd",
+      "figmaHash": "80ddd3dd"
+    },
+    {
+      "kind": "token",
+      "driftId": "var/d682e99b-ce79-4f1c-8546-8dd3f9985431",
+      "repoHash": "44479174",
+      "figmaHash": "44479174"
+    },
+    {
+      "kind": "token",
+      "driftId": "var/e32e191f-29a7-41b9-90c9-193d1abf7d43",
+      "repoHash": "0094e248",
+      "figmaHash": "0094e248"
+    },
+    {
+      "kind": "token",
+      "driftId": "var/e6446c90-35f5-41bb-a24a-5f409abdcf90",
+      "repoHash": "cd36ac02",
+      "figmaHash": "cd36ac02"
+    },
+    {
+      "kind": "token",
+      "driftId": "var/ffcd94e8-c00a-4474-a58a-6420f2f2f917",
+      "repoHash": "751a13a0",
+      "figmaHash": "751a13a0"
+    }
+  ]
+}

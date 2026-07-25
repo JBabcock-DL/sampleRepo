@@ -1,0 +1,76 @@
+{
+  "v": 1,
+  "kind": "component-spec",
+  "name": "callout",
+  "framework": "react",
+  "id": "a1f202e7-e3d8-43b8-96fc-98cf82fdcf65",
+  "variantMatrix": {
+    "variant": [
+      "default",
+      "destructive",
+      "info"
+    ]
+  },
+  "props": [],
+  "bindings": [
+    {
+      "selector": "Callout.fill",
+      "variable": "color/destructive"
+    },
+    {
+      "selector": "Callout.fill",
+      "variable": "color/foreground"
+    },
+    {
+      "selector": "default notice.fill",
+      "variable": "color/foreground"
+    },
+    {
+      "selector": "destructive notice.fill",
+      "variable": "color/foreground"
+    },
+    {
+      "selector": "info notice.fill",
+      "variable": "color/foreground"
+    },
+    {
+      "selector": "root.bottomLeftRadius",
+      "variable": "radius/md"
+    },
+    {
+      "selector": "root.bottomRightRadius",
+      "variable": "radius/md"
+    },
+    {
+      "selector": "root.fill",
+      "variable": "color/background"
+    },
+    {
+      "selector": "root.stroke",
+      "variable": "color/destructive"
+    },
+    {
+      "selector": "root.stroke",
+      "variable": "color/primary"
+    },
+    {
+      "selector": "root.topLeftRadius",
+      "variable": "radius/md"
+    },
+    {
+      "selector": "root.topRightRadius",
+      "variable": "radius/md"
+    }
+  ],
+  "layout": {
+    "direction": "horizontal",
+    "gap": "8",
+    "padding": "16",
+    "sizing": {
+      "horizontal": "hug",
+      "vertical": "hug"
+    }
+  },
+  "sourcePath": "src/components/ui/snack-notice.tsx",
+  "slug": "callout"
+}
