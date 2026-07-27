@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "kind": "style-spec",
+  "id": "web-(shadcn)-small",
+  "slug": "web-(shadcn)-small",
+  "styleType": "text",
+  "name": "Web (Shadcn)/Small",
+  "fontSize": 14,
+  "fontName": {
+    "family": "Inter",
+    "style": "Medium"
+  },
+  "letterSpacing": {
+    "value": 0,
+    "unit": "PIXELS"
+  },
+  "lineHeight": {
+    "value": 14,
+    "unit": "PIXELS"
+  },
+  "textCase": "ORIGINAL",
+  "textDecoration": "NONE"
+}

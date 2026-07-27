@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "kind": "style-spec",
+  "id": "web-(shadcn)-lead",
+  "slug": "web-(shadcn)-lead",
+  "styleType": "text",
+  "name": "Web (Shadcn)/Lead",
+  "fontSize": 16,
+  "fontName": {
+    "family": "Inter",
+    "style": "Regular"
+  },
+  "letterSpacing": {
+    "value": 0,
+    "unit": "PIXELS"
+  },
+  "lineHeight": {
+    "value": 22,
+    "unit": "PIXELS"
+  },
+  "textCase": "ORIGINAL",
+  "textDecoration": "NONE"
+}

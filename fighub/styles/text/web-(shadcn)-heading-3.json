@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "kind": "style-spec",
+  "id": "web-(shadcn)-heading-3",
+  "slug": "web-(shadcn)-heading-3",
+  "styleType": "text",
+  "name": "Web (Shadcn)/Heading 3",
+  "fontSize": 19,
+  "fontName": {
+    "family": "Inter",
+    "style": "Semi Bold"
+  },
+  "letterSpacing": {
+    "value": 0,
+    "unit": "PIXELS"
+  },
+  "lineHeight": {
+    "value": 25,
+    "unit": "PIXELS"
+  },
+  "textCase": "ORIGINAL",
+  "textDecoration": "NONE"
+}

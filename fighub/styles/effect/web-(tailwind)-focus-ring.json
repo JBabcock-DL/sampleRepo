@@ -1,0 +1,51 @@
+{
+  "v": 1,
+  "kind": "style-spec",
+  "id": "web-(tailwind)-focus-ring",
+  "slug": "web-(tailwind)-focus-ring",
+  "styleType": "effect",
+  "name": "Web (Tailwind)/Focus/ring",
+  "effects": [
+    {
+      "type": "DROP_SHADOW",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 0,
+      "spread": 2,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "boundVariables": {
+        "color": "Effects/ring/offset/color",
+        "spread": "Effects/ring/offset/width"
+      }
+    },
+    {
+      "type": "DROP_SHADOW",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "radius": 0,
+      "spread": 5,
+      "visible": true,
+      "blendMode": "NORMAL",
+      "boundVariables": {
+        "color": "Effects/ring/color"
+      }
+    }
+  ]
+}

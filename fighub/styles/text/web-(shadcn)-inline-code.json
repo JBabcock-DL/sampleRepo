@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "kind": "style-spec",
+  "id": "web-(shadcn)-inline-code",
+  "slug": "web-(shadcn)-inline-code",
+  "styleType": "text",
+  "name": "Web (Shadcn)/Inline code",
+  "fontSize": 14,
+  "fontName": {
+    "family": "Inter",
+    "style": "Semi Bold"
+  },
+  "letterSpacing": {
+    "value": 0,
+    "unit": "PIXELS"
+  },
+  "lineHeight": {
+    "value": 20,
+    "unit": "PIXELS"
+  },
+  "textCase": "ORIGINAL",
+  "textDecoration": "NONE"
+}

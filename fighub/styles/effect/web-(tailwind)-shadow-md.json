@@ -1,0 +1,27 @@
+{
+  "v": 1,
+  "kind": "style-spec",
+  "id": "web-(tailwind)-shadow-md",
+  "slug": "web-(tailwind)-shadow-md",
+  "styleType": "effect",
+  "name": "Web (Tailwind)/Shadow/md",
+  "effects": [
+    {
+      "type": "DROP_SHADOW",
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0.1803921568627451
+      },
+      "offset": {
+        "x": 0,
+        "y": 2
+      },
+      "radius": 8,
+      "spread": 0,
+      "visible": true,
+      "blendMode": "NORMAL"
+    }
+  ]
+}

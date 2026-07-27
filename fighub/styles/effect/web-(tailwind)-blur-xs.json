@@ -1,0 +1,15 @@
+{
+  "v": 1,
+  "kind": "style-spec",
+  "id": "web-(tailwind)-blur-xs",
+  "slug": "web-(tailwind)-blur-xs",
+  "styleType": "effect",
+  "name": "Web (Tailwind)/Blur/xs",
+  "effects": [
+    {
+      "type": "BACKGROUND_BLUR",
+      "radius": 4,
+      "visible": true
+    }
+  ]
+}
