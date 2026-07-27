@@ -1,0 +1,944 @@
+{
+  "v": 1,
+  "kind": "fighub-reverse-map",
+  "entries": [
+    {
+      "var": "--color-slate-50",
+      "collection": "primitives",
+      "name": "Primitives/color/slate/50",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-slate-100",
+      "collection": "primitives",
+      "name": "Primitives/color/slate/100",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-slate-200",
+      "collection": "primitives",
+      "name": "Primitives/color/slate/200",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-slate-300",
+      "collection": "primitives",
+      "name": "Primitives/color/slate/300",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-slate-400",
+      "collection": "primitives",
+      "name": "Primitives/color/slate/400",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-slate-500",
+      "collection": "primitives",
+      "name": "Primitives/color/slate/500",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-slate-600",
+      "collection": "primitives",
+      "name": "Primitives/color/slate/600",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-slate-700",
+      "collection": "primitives",
+      "name": "Primitives/color/slate/700",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-slate-800",
+      "collection": "primitives",
+      "name": "Primitives/color/slate/800",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-slate-900",
+      "collection": "primitives",
+      "name": "Primitives/color/slate/900",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-slate-950",
+      "collection": "primitives",
+      "name": "Primitives/color/slate/950",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-red-50",
+      "collection": "primitives",
+      "name": "Primitives/color/red/50",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-red-100",
+      "collection": "primitives",
+      "name": "Primitives/color/red/100",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-red-200",
+      "collection": "primitives",
+      "name": "Primitives/color/red/200",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-red-300",
+      "collection": "primitives",
+      "name": "Primitives/color/red/300",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-red-400",
+      "collection": "primitives",
+      "name": "Primitives/color/red/400",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-red-500",
+      "collection": "primitives",
+      "name": "Primitives/color/red/500",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-red-600",
+      "collection": "primitives",
+      "name": "Primitives/color/red/600",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-red-700",
+      "collection": "primitives",
+      "name": "Primitives/color/red/700",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-red-800",
+      "collection": "primitives",
+      "name": "Primitives/color/red/800",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-red-900",
+      "collection": "primitives",
+      "name": "Primitives/color/red/900",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-red-950",
+      "collection": "primitives",
+      "name": "Primitives/color/red/950",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-amber-50",
+      "collection": "primitives",
+      "name": "Primitives/color/amber/50",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-amber-100",
+      "collection": "primitives",
+      "name": "Primitives/color/amber/100",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-amber-200",
+      "collection": "primitives",
+      "name": "Primitives/color/amber/200",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-amber-300",
+      "collection": "primitives",
+      "name": "Primitives/color/amber/300",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-amber-400",
+      "collection": "primitives",
+      "name": "Primitives/color/amber/400",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-amber-500",
+      "collection": "primitives",
+      "name": "Primitives/color/amber/500",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-amber-600",
+      "collection": "primitives",
+      "name": "Primitives/color/amber/600",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-amber-700",
+      "collection": "primitives",
+      "name": "Primitives/color/amber/700",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-amber-800",
+      "collection": "primitives",
+      "name": "Primitives/color/amber/800",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-amber-900",
+      "collection": "primitives",
+      "name": "Primitives/color/amber/900",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-amber-950",
+      "collection": "primitives",
+      "name": "Primitives/color/amber/950",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-green-50",
+      "collection": "primitives",
+      "name": "Primitives/color/green/50",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-green-100",
+      "collection": "primitives",
+      "name": "Primitives/color/green/100",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-green-200",
+      "collection": "primitives",
+      "name": "Primitives/color/green/200",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-green-300",
+      "collection": "primitives",
+      "name": "Primitives/color/green/300",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-green-400",
+      "collection": "primitives",
+      "name": "Primitives/color/green/400",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-green-500",
+      "collection": "primitives",
+      "name": "Primitives/color/green/500",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-green-600",
+      "collection": "primitives",
+      "name": "Primitives/color/green/600",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-green-700",
+      "collection": "primitives",
+      "name": "Primitives/color/green/700",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-green-800",
+      "collection": "primitives",
+      "name": "Primitives/color/green/800",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-green-900",
+      "collection": "primitives",
+      "name": "Primitives/color/green/900",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-green-950",
+      "collection": "primitives",
+      "name": "Primitives/color/green/950",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-blue-50",
+      "collection": "primitives",
+      "name": "Primitives/color/blue/50",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-blue-100",
+      "collection": "primitives",
+      "name": "Primitives/color/blue/100",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-blue-200",
+      "collection": "primitives",
+      "name": "Primitives/color/blue/200",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-blue-300",
+      "collection": "primitives",
+      "name": "Primitives/color/blue/300",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-blue-400",
+      "collection": "primitives",
+      "name": "Primitives/color/blue/400",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-blue-500",
+      "collection": "primitives",
+      "name": "Primitives/color/blue/500",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-blue-600",
+      "collection": "primitives",
+      "name": "Primitives/color/blue/600",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-blue-700",
+      "collection": "primitives",
+      "name": "Primitives/color/blue/700",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-blue-800",
+      "collection": "primitives",
+      "name": "Primitives/color/blue/800",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-blue-900",
+      "collection": "primitives",
+      "name": "Primitives/color/blue/900",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-blue-950",
+      "collection": "primitives",
+      "name": "Primitives/color/blue/950",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-white",
+      "collection": "primitives",
+      "name": "Primitives/color/white",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--color-black",
+      "collection": "primitives",
+      "name": "Primitives/color/black",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--spacing",
+      "collection": "primitives",
+      "name": "Primitives/Space/base",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 0)",
+      "collection": "primitives",
+      "name": "Primitives/Space/0",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 0.5)",
+      "collection": "primitives",
+      "name": "Primitives/Space/0_5",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 1)",
+      "collection": "primitives",
+      "name": "Primitives/Space/1",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 1.5)",
+      "collection": "primitives",
+      "name": "Primitives/Space/1_5",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 2)",
+      "collection": "primitives",
+      "name": "Primitives/Space/2",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 2.5)",
+      "collection": "primitives",
+      "name": "Primitives/Space/2_5",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 3)",
+      "collection": "primitives",
+      "name": "Primitives/Space/3",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 3.5)",
+      "collection": "primitives",
+      "name": "Primitives/Space/3_5",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 4)",
+      "collection": "primitives",
+      "name": "Primitives/Space/4",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 5)",
+      "collection": "primitives",
+      "name": "Primitives/Space/5",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 6)",
+      "collection": "primitives",
+      "name": "Primitives/Space/6",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 7)",
+      "collection": "primitives",
+      "name": "Primitives/Space/7",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 8)",
+      "collection": "primitives",
+      "name": "Primitives/Space/8",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 9)",
+      "collection": "primitives",
+      "name": "Primitives/Space/9",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 10)",
+      "collection": "primitives",
+      "name": "Primitives/Space/10",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 11)",
+      "collection": "primitives",
+      "name": "Primitives/Space/11",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 12)",
+      "collection": "primitives",
+      "name": "Primitives/Space/12",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 14)",
+      "collection": "primitives",
+      "name": "Primitives/Space/14",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 16)",
+      "collection": "primitives",
+      "name": "Primitives/Space/16",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 20)",
+      "collection": "primitives",
+      "name": "Primitives/Space/20",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 24)",
+      "collection": "primitives",
+      "name": "Primitives/Space/24",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 28)",
+      "collection": "primitives",
+      "name": "Primitives/Space/28",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 32)",
+      "collection": "primitives",
+      "name": "Primitives/Space/32",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 36)",
+      "collection": "primitives",
+      "name": "Primitives/Space/36",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 40)",
+      "collection": "primitives",
+      "name": "Primitives/Space/40",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 44)",
+      "collection": "primitives",
+      "name": "Primitives/Space/44",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 48)",
+      "collection": "primitives",
+      "name": "Primitives/Space/48",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 52)",
+      "collection": "primitives",
+      "name": "Primitives/Space/52",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 56)",
+      "collection": "primitives",
+      "name": "Primitives/Space/56",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 60)",
+      "collection": "primitives",
+      "name": "Primitives/Space/60",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 64)",
+      "collection": "primitives",
+      "name": "Primitives/Space/64",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 72)",
+      "collection": "primitives",
+      "name": "Primitives/Space/72",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 80)",
+      "collection": "primitives",
+      "name": "Primitives/Space/80",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--calc(var(--spacing) * 96)",
+      "collection": "primitives",
+      "name": "Primitives/Space/96",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--elevation-0",
+      "collection": "primitives",
+      "name": "Primitives/elevation/0",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--elevation-100",
+      "collection": "primitives",
+      "name": "Primitives/elevation/100",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--elevation-200",
+      "collection": "primitives",
+      "name": "Primitives/elevation/200",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--elevation-300",
+      "collection": "primitives",
+      "name": "Primitives/elevation/300",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--elevation-400",
+      "collection": "primitives",
+      "name": "Primitives/elevation/400",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--elevation-600",
+      "collection": "primitives",
+      "name": "Primitives/elevation/600",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--elevation-800",
+      "collection": "primitives",
+      "name": "Primitives/elevation/800",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--elevation-1200",
+      "collection": "primitives",
+      "name": "Primitives/elevation/1200",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--elevation-1600",
+      "collection": "primitives",
+      "name": "Primitives/elevation/1600",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--elevation-2400",
+      "collection": "primitives",
+      "name": "Primitives/elevation/2400",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-0",
+      "collection": "primitives",
+      "name": "Primitives/opacity/0",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-5",
+      "collection": "primitives",
+      "name": "Primitives/opacity/5",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-10",
+      "collection": "primitives",
+      "name": "Primitives/opacity/10",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-12",
+      "collection": "primitives",
+      "name": "Primitives/opacity/12",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-15",
+      "collection": "primitives",
+      "name": "Primitives/opacity/15",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-20",
+      "collection": "primitives",
+      "name": "Primitives/opacity/20",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-25",
+      "collection": "primitives",
+      "name": "Primitives/opacity/25",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-30",
+      "collection": "primitives",
+      "name": "Primitives/opacity/30",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-38",
+      "collection": "primitives",
+      "name": "Primitives/opacity/38",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-40",
+      "collection": "primitives",
+      "name": "Primitives/opacity/40",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-50",
+      "collection": "primitives",
+      "name": "Primitives/opacity/50",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-60",
+      "collection": "primitives",
+      "name": "Primitives/opacity/60",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-70",
+      "collection": "primitives",
+      "name": "Primitives/opacity/70",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-80",
+      "collection": "primitives",
+      "name": "Primitives/opacity/80",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-90",
+      "collection": "primitives",
+      "name": "Primitives/opacity/90",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-95",
+      "collection": "primitives",
+      "name": "Primitives/opacity/95",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--opacity-100",
+      "collection": "primitives",
+      "name": "Primitives/opacity/100",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--border-0",
+      "collection": "primitives",
+      "name": "Primitives/border/0",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--border-100",
+      "collection": "primitives",
+      "name": "Primitives/border/100",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--border-200",
+      "collection": "primitives",
+      "name": "Primitives/border/200",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--border-400",
+      "collection": "primitives",
+      "name": "Primitives/border/400",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--font-weight-thin",
+      "collection": "primitives",
+      "name": "Primitives/font/weight/thin",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--font-weight-extralight",
+      "collection": "primitives",
+      "name": "Primitives/font/weight/extralight",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--font-weight-light",
+      "collection": "primitives",
+      "name": "Primitives/font/weight/light",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--font-weight-regular",
+      "collection": "primitives",
+      "name": "Primitives/font/weight/regular",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--font-weight-medium",
+      "collection": "primitives",
+      "name": "Primitives/font/weight/medium",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--font-weight-semibold",
+      "collection": "primitives",
+      "name": "Primitives/font/weight/semibold",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--font-weight-bold",
+      "collection": "primitives",
+      "name": "Primitives/font/weight/bold",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--font-weight-extrabold",
+      "collection": "primitives",
+      "name": "Primitives/font/weight/extrabold",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--font-weight-black",
+      "collection": "primitives",
+      "name": "Primitives/font/weight/black",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--font-typeface-display",
+      "collection": "primitives",
+      "name": "Primitives/font/typeface/display",
+      "mode": "Default",
+      "ambiguous": false
+    },
+    {
+      "var": "--font-typeface-body",
+      "collection": "primitives",
+      "name": "Primitives/font/typeface/body",
+      "mode": "Default",
+      "ambiguous": false
+    }
+  ]
+}

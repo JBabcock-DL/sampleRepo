@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "kind": "style-spec",
+  "id": "web-(shadcn)-large",
+  "slug": "web-(shadcn)-large",
+  "styleType": "text",
+  "name": "Web (Shadcn)/Large",
+  "fontSize": 14.5,
+  "fontName": {
+    "family": "Inter",
+    "style": "Semi Bold"
+  },
+  "letterSpacing": {
+    "value": 0,
+    "unit": "PIXELS"
+  },
+  "lineHeight": {
+    "value": 23,
+    "unit": "PIXELS"
+  },
+  "textCase": "ORIGINAL",
+  "textDecoration": "NONE"
+}
