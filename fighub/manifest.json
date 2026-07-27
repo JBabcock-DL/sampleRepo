@@ -2,2349 +2,1783 @@
   "v": 1,
   "kind": "fighub-manifest",
   "sha": "",
-  "writtenAt": "2026-07-27T17:39:23.356Z",
+  "writtenAt": "2026-07-27T20:45:48.786Z",
   "items": [
     {
       "kind": "style",
       "driftId": "sty/effect/web-(tailwind)-blur-2xl",
       "repoHash": "b9fd3cd8",
-      "figmaHash": "b9fd3cd8",
-      "repoPath": "fighub/styles/effect/web-(tailwind)-blur-2xl.json"
+      "figmaHash": "b9fd3cd8"
     },
     {
       "kind": "style",
       "driftId": "sty/effect/web-(tailwind)-blur-3xl",
       "repoHash": "8d30ff49",
-      "figmaHash": "8d30ff49",
-      "repoPath": "fighub/styles/effect/web-(tailwind)-blur-3xl.json"
+      "figmaHash": "8d30ff49"
     },
     {
       "kind": "style",
       "driftId": "sty/effect/web-(tailwind)-blur-lg",
       "repoHash": "4af1fc0a",
-      "figmaHash": "4af1fc0a",
-      "repoPath": "fighub/styles/effect/web-(tailwind)-blur-lg.json"
+      "figmaHash": "4af1fc0a"
     },
     {
       "kind": "style",
       "driftId": "sty/effect/web-(tailwind)-blur-md",
       "repoHash": "bc721d8a",
-      "figmaHash": "bc721d8a",
-      "repoPath": "fighub/styles/effect/web-(tailwind)-blur-md.json"
+      "figmaHash": "bc721d8a"
     },
     {
       "kind": "style",
       "driftId": "sty/effect/web-(tailwind)-blur-sm",
       "repoHash": "26d131c2",
-      "figmaHash": "26d131c2",
-      "repoPath": "fighub/styles/effect/web-(tailwind)-blur-sm.json"
+      "figmaHash": "26d131c2"
     },
     {
       "kind": "style",
       "driftId": "sty/effect/web-(tailwind)-blur-xl",
       "repoHash": "c7374f2e",
-      "figmaHash": "c7374f2e",
-      "repoPath": "fighub/styles/effect/web-(tailwind)-blur-xl.json"
+      "figmaHash": "c7374f2e"
     },
     {
       "kind": "style",
       "driftId": "sty/effect/web-(tailwind)-blur-xs",
       "repoHash": "1c06f619",
-      "figmaHash": "1c06f619",
-      "repoPath": "fighub/styles/effect/web-(tailwind)-blur-xs.json"
+      "figmaHash": "1c06f619"
     },
     {
       "kind": "style",
       "driftId": "sty/effect/web-(tailwind)-focus-ring",
       "repoHash": "9de1dac7",
-      "figmaHash": "9de1dac7",
-      "repoPath": "fighub/styles/effect/web-(tailwind)-focus-ring.json"
+      "figmaHash": "9de1dac7"
     },
     {
       "kind": "style",
       "driftId": "sty/effect/web-(tailwind)-shadow-lg",
       "repoHash": "2f449b42",
-      "figmaHash": "2f449b42",
-      "repoPath": "fighub/styles/effect/web-(tailwind)-shadow-lg.json"
+      "figmaHash": "2f449b42"
     },
     {
       "kind": "style",
       "driftId": "sty/effect/web-(tailwind)-shadow-md",
       "repoHash": "53ff532d",
-      "figmaHash": "53ff532d",
-      "repoPath": "fighub/styles/effect/web-(tailwind)-shadow-md.json"
+      "figmaHash": "53ff532d"
     },
     {
       "kind": "style",
       "driftId": "sty/effect/web-(tailwind)-shadow-shadow",
       "repoHash": "63167eea",
-      "figmaHash": "63167eea",
-      "repoPath": "fighub/styles/effect/web-(tailwind)-shadow-shadow.json"
+      "figmaHash": "63167eea"
     },
     {
       "kind": "style",
       "driftId": "sty/effect/web-(tailwind)-shadow-sm",
       "repoHash": "b1750151",
-      "figmaHash": "b1750151",
-      "repoPath": "fighub/styles/effect/web-(tailwind)-shadow-sm.json"
+      "figmaHash": "b1750151"
     },
     {
       "kind": "style",
       "driftId": "sty/effect/web-(tailwind)-shadow-xl",
       "repoHash": "d3da9701",
-      "figmaHash": "d3da9701",
-      "repoPath": "fighub/styles/effect/web-(tailwind)-shadow-xl.json"
+      "figmaHash": "d3da9701"
     },
     {
       "kind": "style",
       "driftId": "sty/text/web-(shadcn)-blockquote",
       "repoHash": "24e5052d",
-      "figmaHash": "24e5052d",
-      "repoPath": "fighub/styles/text/web-(shadcn)-blockquote.json"
+      "figmaHash": "24e5052d"
     },
     {
       "kind": "style",
       "driftId": "sty/text/web-(shadcn)-heading-1",
       "repoHash": "96297e5a",
-      "figmaHash": "96297e5a",
-      "repoPath": "fighub/styles/text/web-(shadcn)-heading-1.json"
+      "figmaHash": "96297e5a"
     },
     {
       "kind": "style",
       "driftId": "sty/text/web-(shadcn)-heading-2",
       "repoHash": "f641735d",
-      "figmaHash": "f641735d",
-      "repoPath": "fighub/styles/text/web-(shadcn)-heading-2.json"
+      "figmaHash": "f641735d"
     },
     {
       "kind": "style",
       "driftId": "sty/text/web-(shadcn)-heading-3",
       "repoHash": "9600c98e",
-      "figmaHash": "9600c98e",
-      "repoPath": "fighub/styles/text/web-(shadcn)-heading-3.json"
+      "figmaHash": "9600c98e"
     },
     {
       "kind": "style",
       "driftId": "sty/text/web-(shadcn)-heading-4",
       "repoHash": "4ee013d9",
-      "figmaHash": "4ee013d9",
-      "repoPath": "fighub/styles/text/web-(shadcn)-heading-4.json"
+      "figmaHash": "4ee013d9"
     },
     {
       "kind": "style",
       "driftId": "sty/text/web-(shadcn)-inline-code",
       "repoHash": "63f9048d",
-      "figmaHash": "63f9048d",
-      "repoPath": "fighub/styles/text/web-(shadcn)-inline-code.json"
+      "figmaHash": "63f9048d"
     },
     {
       "kind": "style",
       "driftId": "sty/text/web-(shadcn)-large",
       "repoHash": "b09e7a7a",
-      "figmaHash": "b09e7a7a",
-      "repoPath": "fighub/styles/text/web-(shadcn)-large.json"
+      "figmaHash": "b09e7a7a"
     },
     {
       "kind": "style",
       "driftId": "sty/text/web-(shadcn)-lead",
       "repoHash": "c1738782",
-      "figmaHash": "c1738782",
-      "repoPath": "fighub/styles/text/web-(shadcn)-lead.json"
+      "figmaHash": "c1738782"
     },
     {
       "kind": "style",
       "driftId": "sty/text/web-(shadcn)-muted",
       "repoHash": "e0767393",
-      "figmaHash": "e0767393",
-      "repoPath": "fighub/styles/text/web-(shadcn)-muted.json"
+      "figmaHash": "e0767393"
     },
     {
       "kind": "style",
       "driftId": "sty/text/web-(shadcn)-paragraph",
       "repoHash": "5024fd04",
-      "figmaHash": "5024fd04",
-      "repoPath": "fighub/styles/text/web-(shadcn)-paragraph.json"
+      "figmaHash": "5024fd04"
     },
     {
       "kind": "style",
       "driftId": "sty/text/web-(shadcn)-small",
       "repoHash": "c1bf6c35",
-      "figmaHash": "c1bf6c35",
-      "repoPath": "fighub/styles/text/web-(shadcn)-small.json"
+      "figmaHash": "c1bf6c35"
     },
     {
       "kind": "token",
       "driftId": "var/006365ca-a229-4e7f-9a5e-3c86736ec21d",
       "repoHash": "2fd8ee74",
-      "figmaHash": "2fd8ee74",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2fd8ee74"
     },
     {
       "kind": "token",
       "driftId": "var/01069f30-9a82-4c68-8aa4-9d75e59e080a",
       "repoHash": "fab3ff41",
-      "figmaHash": "fab3ff41",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "fab3ff41"
     },
     {
       "kind": "token",
       "driftId": "var/014a42e4-4165-49f2-a6b9-f09b38008145",
       "repoHash": "a4f205ba",
-      "figmaHash": "a4f205ba",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a4f205ba"
     },
     {
       "kind": "token",
       "driftId": "var/019d6dd8-5a2c-4059-ade4-b276b247d857",
       "repoHash": "218be603",
-      "figmaHash": "218be603",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "218be603"
     },
     {
       "kind": "token",
       "driftId": "var/02419b62-0031-4247-b7ba-e24ec2ee7979",
       "repoHash": "2f772f82",
-      "figmaHash": "2f772f82",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2f772f82"
     },
     {
       "kind": "token",
       "driftId": "var/02ebf166-3056-4b78-92dd-8952951c51a8",
       "repoHash": "c0056254",
-      "figmaHash": "c0056254",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "c0056254"
     },
     {
       "kind": "token",
       "driftId": "var/030baafc-0f0e-4b7c-aa81-e21629e65602",
       "repoHash": "92ce21d9",
-      "figmaHash": "92ce21d9",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "92ce21d9"
     },
     {
       "kind": "token",
       "driftId": "var/04f16cce-83d6-422a-9fea-0c7be9dbbdbf",
       "repoHash": "6c9ed9d9",
-      "figmaHash": "6c9ed9d9",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6c9ed9d9"
     },
     {
       "kind": "token",
       "driftId": "var/058fcf0d-f8ba-4753-b05a-3fa87c7d39b4",
       "repoHash": "45b34c2b",
-      "figmaHash": "45b34c2b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "45b34c2b"
     },
     {
       "kind": "token",
       "driftId": "var/07c0717b-36b9-487c-b30a-a9f5a1359fcd",
       "repoHash": "a4bc79cd",
-      "figmaHash": "a4bc79cd",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a4bc79cd"
     },
     {
       "kind": "token",
       "driftId": "var/07d162d7-361f-4431-b39a-70c4850c049d",
       "repoHash": "8dc9615a",
-      "figmaHash": "8dc9615a",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "8dc9615a"
     },
     {
       "kind": "token",
       "driftId": "var/082dc53a-8341-4a0a-b94c-d6b77e0743a5",
       "repoHash": "8dc9615a",
-      "figmaHash": "8dc9615a",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "8dc9615a"
     },
     {
       "kind": "token",
       "driftId": "var/086dbe86-8c6c-464a-a4ed-13bf20d00a09",
       "repoHash": "51111041",
-      "figmaHash": "51111041",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "51111041"
     },
     {
       "kind": "token",
       "driftId": "var/096612d7-cb0c-41bd-a2c2-3149dc5ca11b",
       "repoHash": "29cc44cd",
-      "figmaHash": "29cc44cd",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "29cc44cd"
     },
     {
       "kind": "token",
       "driftId": "var/09dc3864-fb94-4372-bd08-eead904e1e24",
       "repoHash": "2d088281",
-      "figmaHash": "2d088281",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2d088281"
     },
     {
       "kind": "token",
       "driftId": "var/0a786324-308d-4f8a-8056-57575828b780",
       "repoHash": "04879f6d",
-      "figmaHash": "04879f6d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "04879f6d"
     },
     {
       "kind": "token",
       "driftId": "var/0a8dcdfd-07b5-4953-be6d-8b7da7d894f7",
       "repoHash": "f2f2bd93",
-      "figmaHash": "f2f2bd93",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f2f2bd93"
     },
     {
       "kind": "token",
       "driftId": "var/0b0523fd-59a1-4fc9-8a24-b8e7acd39ab8",
       "repoHash": "6e5c8c61",
-      "figmaHash": "6e5c8c61",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6e5c8c61"
     },
     {
       "kind": "token",
       "driftId": "var/0cde912f-6180-47ca-ab4e-c38685c305a2",
       "repoHash": "1e54c2f9",
-      "figmaHash": "1e54c2f9",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "1e54c2f9"
     },
     {
       "kind": "token",
       "driftId": "var/0e3640c4-f207-4477-89c5-361f7368f74f",
       "repoHash": "d98e816d",
-      "figmaHash": "d98e816d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d98e816d"
     },
     {
       "kind": "token",
       "driftId": "var/0e8239cf-9185-43ef-82c8-5400af84b001",
       "repoHash": "42c92ed3",
-      "figmaHash": "42c92ed3",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "42c92ed3"
     },
     {
       "kind": "token",
       "driftId": "var/0e8b6b17-51e2-4d88-b5bb-615f04c0474f",
       "repoHash": "96e5d9f6",
-      "figmaHash": "96e5d9f6",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "96e5d9f6"
     },
     {
       "kind": "token",
       "driftId": "var/0ecff891-3f34-4cb9-a8bb-d5b48ea6f447",
       "repoHash": "0d0145fe",
-      "figmaHash": "0d0145fe",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "0d0145fe"
     },
     {
       "kind": "token",
       "driftId": "var/0f603e4b-5a68-4228-9c47-950839427763",
       "repoHash": "b8a669af",
-      "figmaHash": "b8a669af",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "b8a669af"
     },
     {
       "kind": "token",
       "driftId": "var/0f89969f-ba60-430a-a74e-f90309534656",
       "repoHash": "f1c3c0cf",
-      "figmaHash": "f1c3c0cf",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f1c3c0cf"
     },
     {
       "kind": "token",
       "driftId": "var/0fb1b9fb-d8ef-45bc-8541-45f933b0e013",
       "repoHash": "32efb5d2",
-      "figmaHash": "32efb5d2",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "32efb5d2"
     },
     {
       "kind": "token",
       "driftId": "var/10cc09bc-7dfd-4e2b-981a-481712a3719b",
       "repoHash": "b07b3dd9",
-      "figmaHash": "b07b3dd9",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "b07b3dd9"
     },
     {
       "kind": "token",
       "driftId": "var/10d9669f-0ff7-4ffc-b3ee-180ab12c37e5",
       "repoHash": "3c930da1",
-      "figmaHash": "3c930da1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "3c930da1"
     },
     {
       "kind": "token",
       "driftId": "var/1136c41d-04d1-48aa-8fe0-60637bbfee66",
       "repoHash": "723a690b",
-      "figmaHash": "723a690b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "723a690b"
     },
     {
       "kind": "token",
       "driftId": "var/11b91c00-e2c1-42c8-bdaf-780b8c0801fc",
       "repoHash": "606be8f3",
-      "figmaHash": "606be8f3",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "606be8f3"
     },
     {
       "kind": "token",
       "driftId": "var/123f6365-fc68-4b4c-aeed-5663a0001858",
       "repoHash": "a8902149",
-      "figmaHash": "a8902149",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a8902149"
     },
     {
       "kind": "token",
       "driftId": "var/135a88ae-8be9-4ff5-a579-d8b051b71ee5",
       "repoHash": "6f1b4208",
-      "figmaHash": "6f1b4208",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6f1b4208"
     },
     {
       "kind": "token",
       "driftId": "var/137dcd1e-9fd4-42bd-8d2b-372ae77baee5",
       "repoHash": "a2c31a27",
-      "figmaHash": "a2c31a27",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a2c31a27"
     },
     {
       "kind": "token",
       "driftId": "var/13d921b0-eeb1-481e-bd76-8d7271b25435",
       "repoHash": "e0328e41",
-      "figmaHash": "e0328e41",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e0328e41"
     },
     {
       "kind": "token",
       "driftId": "var/1439d1ce-e841-496f-b15f-e1610dfa9de9",
       "repoHash": "f8fc8bf1",
-      "figmaHash": "f8fc8bf1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f8fc8bf1"
     },
     {
       "kind": "token",
       "driftId": "var/1575e37e-0319-4279-b986-5893cc101939",
       "repoHash": "b07b3dd9",
-      "figmaHash": "b07b3dd9",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "b07b3dd9"
     },
     {
       "kind": "token",
       "driftId": "var/1591e815-e062-4b1c-b0f2-4aa61a2e87ca",
       "repoHash": "f8548f9d",
-      "figmaHash": "f8548f9d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f8548f9d"
     },
     {
       "kind": "token",
       "driftId": "var/159c982e-5677-408b-b47e-088d2afaf5c0",
       "repoHash": "9f411f05",
-      "figmaHash": "9f411f05",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9f411f05"
     },
     {
       "kind": "token",
       "driftId": "var/15f99133-cbef-4ae2-b634-051be2f8f64e",
       "repoHash": "cacc349b",
-      "figmaHash": "cacc349b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "cacc349b"
     },
     {
       "kind": "token",
       "driftId": "var/161c6e15-68ea-4ff2-a3f5-d6a12a574eb3",
       "repoHash": "e7b5ee02",
-      "figmaHash": "e7b5ee02",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e7b5ee02"
     },
     {
       "kind": "token",
       "driftId": "var/163d0834-4586-42db-b01d-9b0931e3052d",
       "repoHash": "e6c4fe38",
-      "figmaHash": "e6c4fe38",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e6c4fe38"
     },
     {
       "kind": "token",
       "driftId": "var/16eb9984-239d-4a33-9036-8c1b0b13f83f",
       "repoHash": "2a414d0d",
-      "figmaHash": "2a414d0d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2a414d0d"
     },
     {
       "kind": "token",
       "driftId": "var/1789b879-15a1-43e7-a926-7bd1e951dd31",
       "repoHash": "899a5378",
-      "figmaHash": "899a5378",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "899a5378"
     },
     {
       "kind": "token",
       "driftId": "var/17aff8af-9114-48d1-8a6a-3815f408b93c",
       "repoHash": "7601da71",
-      "figmaHash": "7601da71",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "7601da71"
     },
     {
       "kind": "token",
       "driftId": "var/17db0613-2f15-4d98-828a-4a53b5f93019",
       "repoHash": "f8548f9d",
-      "figmaHash": "f8548f9d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f8548f9d"
     },
     {
       "kind": "token",
       "driftId": "var/18bda10f-8261-459e-9083-8b0c37ee8de1",
       "repoHash": "1611e50f",
-      "figmaHash": "1611e50f",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "1611e50f"
     },
     {
       "kind": "token",
       "driftId": "var/19a58ef5-e935-4818-bd0f-64119c9571aa",
       "repoHash": "45b34c2b",
-      "figmaHash": "45b34c2b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "45b34c2b"
     },
     {
       "kind": "token",
       "driftId": "var/1a3d8ed9-56d0-48a8-b7ba-3a3069d81828",
       "repoHash": "a2c31a27",
-      "figmaHash": "a2c31a27",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a2c31a27"
     },
     {
       "kind": "token",
       "driftId": "var/1a5780de-7cde-4109-8a68-816d2ecacc39",
       "repoHash": "30120d67",
-      "figmaHash": "30120d67",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "30120d67"
     },
     {
       "kind": "token",
       "driftId": "var/1b462a8a-f138-4b26-a1bd-c3f4e235d2a2",
       "repoHash": "360218de",
-      "figmaHash": "360218de",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "360218de"
     },
     {
       "kind": "token",
       "driftId": "var/1cd0e2d6-c942-4686-b81c-e6435ef004b2",
       "repoHash": "8369042b",
-      "figmaHash": "8369042b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "8369042b"
     },
     {
       "kind": "token",
       "driftId": "var/1d64f618-6b59-4a6c-aa53-3a7d78f13e91",
       "repoHash": "ade2d3ab",
-      "figmaHash": "ade2d3ab",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "ade2d3ab"
     },
     {
       "kind": "token",
       "driftId": "var/1e170bca-31fd-4a30-9cab-223c9bbec473",
       "repoHash": "598825aa",
-      "figmaHash": "598825aa",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "598825aa"
     },
     {
       "kind": "token",
       "driftId": "var/1e65d1b8-7f7b-4d29-a18c-8652a701edaa",
       "repoHash": "6e5c8c61",
-      "figmaHash": "6e5c8c61",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6e5c8c61"
     },
     {
       "kind": "token",
       "driftId": "var/219f639c-6932-4440-8cf4-b56ab4d09de1",
       "repoHash": "c65e71e3",
-      "figmaHash": "c65e71e3",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "c65e71e3"
     },
     {
       "kind": "token",
       "driftId": "var/21bd476d-f3b1-44a5-a0bf-ab375b6bdbab",
       "repoHash": "3c658149",
-      "figmaHash": "3c658149",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "3c658149"
     },
     {
       "kind": "token",
       "driftId": "var/21eb8d2b-0031-43f0-8a9b-b28d3b72b790",
       "repoHash": "2a414d0d",
-      "figmaHash": "2a414d0d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2a414d0d"
     },
     {
       "kind": "token",
       "driftId": "var/2244c60e-9a03-4f30-a208-861968cbe298",
       "repoHash": "1e9c9026",
-      "figmaHash": "1e9c9026",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "1e9c9026"
     },
     {
       "kind": "token",
       "driftId": "var/2349fc12-966c-4862-8bac-023d1ccda8e8",
       "repoHash": "723a690b",
-      "figmaHash": "723a690b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "723a690b"
     },
     {
       "kind": "token",
       "driftId": "var/23cb804d-72ad-4afc-96f0-70bc30438709",
       "repoHash": "9e9a6a51",
-      "figmaHash": "9e9a6a51",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9e9a6a51"
     },
     {
       "kind": "token",
       "driftId": "var/25675192-03c1-4122-a18b-2a8d8b11d39f",
       "repoHash": "175862fc",
-      "figmaHash": "175862fc",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "175862fc"
     },
     {
       "kind": "token",
       "driftId": "var/259fbe31-3cb0-46a3-a195-5fe5cb5ee93b",
       "repoHash": "f8548f9d",
-      "figmaHash": "f8548f9d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f8548f9d"
     },
     {
       "kind": "token",
       "driftId": "var/25bb6752-c5c8-4528-be99-d4b67cdb4ce5",
       "repoHash": "cd36ac02",
-      "figmaHash": "cd36ac02",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "cd36ac02"
     },
     {
       "kind": "token",
       "driftId": "var/26e99ddf-cd86-4a5d-89ac-d765a802f2a8",
       "repoHash": "5f20e8cf",
-      "figmaHash": "5f20e8cf",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "5f20e8cf"
     },
     {
       "kind": "token",
       "driftId": "var/28ca6099-3b5a-4685-96c9-a2909db1cc6c",
       "repoHash": "0ecd9fa5",
-      "figmaHash": "0ecd9fa5",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "0ecd9fa5"
     },
     {
       "kind": "token",
       "driftId": "var/29766b89-4bd5-431c-b177-4a6e713cb502",
       "repoHash": "2d85ab1a",
-      "figmaHash": "2d85ab1a",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2d85ab1a"
     },
     {
       "kind": "token",
       "driftId": "var/2aa0e95a-84f6-4833-b2a7-7a3f86238957",
       "repoHash": "45b34c2b",
-      "figmaHash": "45b34c2b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "45b34c2b"
     },
     {
       "kind": "token",
       "driftId": "var/2ceff25b-375b-4b3d-be99-aea785819f72",
       "repoHash": "899a5378",
-      "figmaHash": "899a5378",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "899a5378"
     },
     {
       "kind": "token",
       "driftId": "var/2d0dd316-e433-4997-bc8b-bb0c5093ea67",
       "repoHash": "749b32a8",
-      "figmaHash": "749b32a8",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "749b32a8"
     },
     {
       "kind": "token",
       "driftId": "var/2e2c7f3f-6581-4509-9568-41259cd85ea6",
       "repoHash": "a0af862c",
-      "figmaHash": "a0af862c",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a0af862c"
     },
     {
       "kind": "token",
       "driftId": "var/2eb6cc81-8661-4dae-9985-71c6928a4c88",
       "repoHash": "a6dad4a7",
-      "figmaHash": "a6dad4a7",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a6dad4a7"
     },
     {
       "kind": "token",
       "driftId": "var/2ecc4add-0958-4a93-8a99-5afcacb82157",
       "repoHash": "b1c612f1",
-      "figmaHash": "b1c612f1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "b1c612f1"
     },
     {
       "kind": "token",
       "driftId": "var/2f36d701-572c-40ec-ba9a-38f32597f515",
       "repoHash": "cd36ac02",
-      "figmaHash": "cd36ac02",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "cd36ac02"
     },
     {
       "kind": "token",
       "driftId": "var/30730c6d-0236-4b90-98e3-7e0f573e3698",
       "repoHash": "92ce21d9",
-      "figmaHash": "92ce21d9",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "92ce21d9"
     },
     {
       "kind": "token",
       "driftId": "var/307600be-adaa-446b-b1b6-ea933eeb385b",
       "repoHash": "3c658149",
-      "figmaHash": "3c658149",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "3c658149"
     },
     {
       "kind": "token",
       "driftId": "var/30d89fc4-f955-46fd-81b7-83f17da440fe",
       "repoHash": "6b9562d1",
-      "figmaHash": "6b9562d1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6b9562d1"
     },
     {
       "kind": "token",
       "driftId": "var/310c7a90-865a-48e0-a35a-d5e5a433856a",
       "repoHash": "0b53008b",
-      "figmaHash": "0b53008b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "0b53008b"
     },
     {
       "kind": "token",
       "driftId": "var/31355992-6833-420a-b513-7449d6901aec",
       "repoHash": "27befbff",
-      "figmaHash": "27befbff",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "27befbff"
     },
     {
       "kind": "token",
       "driftId": "var/318358aa-82ea-4bf6-b247-129725bdd897",
       "repoHash": "9fc67d61",
-      "figmaHash": "9fc67d61",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9fc67d61"
     },
     {
       "kind": "token",
       "driftId": "var/31beeb76-9f64-459e-b912-d39a6ad43d01",
       "repoHash": "d50349b2",
-      "figmaHash": "d50349b2",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d50349b2"
     },
     {
       "kind": "token",
       "driftId": "var/31df285e-d4b7-4d68-8a34-b53d77db6b78",
       "repoHash": "751c5359",
-      "figmaHash": "751c5359",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "751c5359"
     },
     {
       "kind": "token",
       "driftId": "var/31f378c0-c3fe-4b4d-a482-2790b3e7ccd2",
       "repoHash": "2fd8ee74",
-      "figmaHash": "2fd8ee74",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2fd8ee74"
     },
     {
       "kind": "token",
       "driftId": "var/32bde957-f52d-4f7f-8053-cc5372185761",
       "repoHash": "e4845d91",
-      "figmaHash": "e4845d91",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e4845d91"
     },
     {
       "kind": "token",
       "driftId": "var/32ddacb5-d8cb-444b-9fe9-1566f18199ed",
       "repoHash": "b631dd9d",
-      "figmaHash": "b631dd9d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "b631dd9d"
     },
     {
       "kind": "token",
       "driftId": "var/32e26dde-cb85-4632-a645-3c20d0449217",
       "repoHash": "b1c612f1",
-      "figmaHash": "b1c612f1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "b1c612f1"
     },
     {
       "kind": "token",
       "driftId": "var/33ee638b-b364-4f20-b96e-ea507947bdde",
       "repoHash": "faf4be6e",
-      "figmaHash": "faf4be6e",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "faf4be6e"
     },
     {
       "kind": "token",
       "driftId": "var/3422f1c3-df81-4a49-b5b4-e546c495de15",
       "repoHash": "f8fc8bf1",
-      "figmaHash": "f8fc8bf1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f8fc8bf1"
     },
     {
       "kind": "token",
       "driftId": "var/342b273c-1c7c-4eed-9f48-44584e21933f",
       "repoHash": "d5b1045e",
-      "figmaHash": "d5b1045e",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d5b1045e"
     },
     {
       "kind": "token",
       "driftId": "var/34706cf4-9a14-42d1-8f99-394157093609",
       "repoHash": "24657878",
-      "figmaHash": "24657878",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "24657878"
     },
     {
       "kind": "token",
       "driftId": "var/34f04d25-f945-4725-8ac1-61c5de029421",
       "repoHash": "b68beee1",
-      "figmaHash": "b68beee1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "b68beee1"
     },
     {
       "kind": "token",
       "driftId": "var/382dc735-a791-4d00-8979-c34af3094115",
       "repoHash": "cd36ac02",
-      "figmaHash": "cd36ac02",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "cd36ac02"
     },
     {
       "kind": "token",
       "driftId": "var/38a8d098-95f7-4086-8865-990cb818d544",
       "repoHash": "5bfa9dec",
-      "figmaHash": "5bfa9dec",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "5bfa9dec"
     },
     {
       "kind": "token",
       "driftId": "var/396592d2-f376-462e-89a7-fdaa0cbca8a5",
       "repoHash": "20ff1cea",
-      "figmaHash": "20ff1cea",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "20ff1cea"
     },
     {
       "kind": "token",
       "driftId": "var/39872cd4-721b-4ff0-be23-dbb772dfd24c",
       "repoHash": "723a690b",
-      "figmaHash": "723a690b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "723a690b"
     },
     {
       "kind": "token",
       "driftId": "var/3accb0d6-b2f1-46ae-9d36-6fb8eb39c32c",
       "repoHash": "a8474950",
-      "figmaHash": "a8474950",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a8474950"
     },
     {
       "kind": "token",
       "driftId": "var/3adacd95-ffc2-44f1-9e9f-e23d9fbc3b0c",
       "repoHash": "cacc349b",
-      "figmaHash": "cacc349b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "cacc349b"
     },
     {
       "kind": "token",
       "driftId": "var/3b049c28-4729-496f-8ec7-95314c869ce8",
       "repoHash": "71206a7d",
-      "figmaHash": "71206a7d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "71206a7d"
     },
     {
       "kind": "token",
       "driftId": "var/3b6954f9-b437-44b2-88f2-13a464067274",
       "repoHash": "a4bc79cd",
-      "figmaHash": "a4bc79cd",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a4bc79cd"
     },
     {
       "kind": "token",
       "driftId": "var/3c320199-38a0-471b-ae4c-de788b774c23",
       "repoHash": "056a43e7",
-      "figmaHash": "056a43e7",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "056a43e7"
     },
     {
       "kind": "token",
       "driftId": "var/3fe324b9-2850-4f81-a8a6-d1e2bf08c580",
       "repoHash": "a2c31a27",
-      "figmaHash": "a2c31a27",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a2c31a27"
     },
     {
       "kind": "token",
       "driftId": "var/3fe35cb0-5277-4023-8c1f-c17edc1f9ba3",
       "repoHash": "84dbb941",
-      "figmaHash": "84dbb941",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "84dbb941"
     },
     {
       "kind": "token",
       "driftId": "var/3ffc97eb-8495-4f97-aa67-9334056bbd7a",
       "repoHash": "3380ad1d",
-      "figmaHash": "3380ad1d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "3380ad1d"
     },
     {
       "kind": "token",
       "driftId": "var/40dd1d38-8e8a-4dce-be3c-63612b8da891",
       "repoHash": "9c47c161",
-      "figmaHash": "9c47c161",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9c47c161"
     },
     {
       "kind": "token",
       "driftId": "var/41a40c3e-cdc4-4235-a714-135055a37692",
       "repoHash": "d8872a55",
-      "figmaHash": "d8872a55",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d8872a55"
     },
     {
       "kind": "token",
       "driftId": "var/41f63bcb-786e-4600-82d4-5791992725ab",
       "repoHash": "b72c9525",
-      "figmaHash": "b72c9525",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "b72c9525"
     },
     {
       "kind": "token",
       "driftId": "var/436a3063-4158-47fa-a4c9-0e20b4634fd3",
       "repoHash": "a4bc79cd",
-      "figmaHash": "a4bc79cd",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a4bc79cd"
     },
     {
       "kind": "token",
       "driftId": "var/43918d81-3591-4ebd-8744-4cca0fe66b77",
       "repoHash": "9e9a6a51",
-      "figmaHash": "9e9a6a51",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9e9a6a51"
     },
     {
       "kind": "token",
       "driftId": "var/44814ba8-48ff-428b-a7b6-f5cc4693b46f",
       "repoHash": "0b53008b",
-      "figmaHash": "0b53008b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "0b53008b"
     },
     {
       "kind": "token",
       "driftId": "var/44bd2887-0289-4bcd-82d7-6ee69ec8ae49",
       "repoHash": "a664e515",
-      "figmaHash": "a664e515",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a664e515"
     },
     {
       "kind": "token",
       "driftId": "var/454a8694-2534-468e-bfc4-cf23aa7a4c07",
       "repoHash": "0268b1e5",
-      "figmaHash": "0268b1e5",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "0268b1e5"
     },
     {
       "kind": "token",
       "driftId": "var/459f17b6-8b9c-420f-b139-6c70d7daedc4",
       "repoHash": "569c35e8",
-      "figmaHash": "569c35e8",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "569c35e8"
     },
     {
       "kind": "token",
       "driftId": "var/486053e7-6a19-433d-8115-d94db3b48b3a",
       "repoHash": "e4845d91",
-      "figmaHash": "e4845d91",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e4845d91"
     },
     {
       "kind": "token",
       "driftId": "var/4977f84b-1d03-4d98-a6e7-98d5bfc71516",
       "repoHash": "a2c31a27",
-      "figmaHash": "a2c31a27",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a2c31a27"
     },
     {
       "kind": "token",
       "driftId": "var/499fabb2-f606-44bd-a42b-d0e4331db7a3",
       "repoHash": "e4845d91",
-      "figmaHash": "e4845d91",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e4845d91"
     },
     {
       "kind": "token",
       "driftId": "var/4bd6269f-3a61-4704-b5c4-0f626238336b",
       "repoHash": "218be603",
-      "figmaHash": "218be603",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "218be603"
     },
     {
       "kind": "token",
       "driftId": "var/4c12990d-cac8-424a-ae45-76f2a7b9e42f",
       "repoHash": "218be603",
-      "figmaHash": "218be603",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "218be603"
     },
     {
       "kind": "token",
       "driftId": "var/4c292e1e-0977-4ffe-a1a0-6008ac5d8361",
       "repoHash": "6c9ed9d9",
-      "figmaHash": "6c9ed9d9",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6c9ed9d9"
     },
     {
       "kind": "token",
       "driftId": "var/4da98df1-50b3-4375-9616-a45545d8eec3",
       "repoHash": "f2f2bd93",
-      "figmaHash": "f2f2bd93",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f2f2bd93"
     },
     {
       "kind": "token",
       "driftId": "var/4e2a891c-4213-4402-9b43-f3a98fddb2a4",
       "repoHash": "2d088281",
-      "figmaHash": "2d088281",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2d088281"
     },
     {
       "kind": "token",
       "driftId": "var/4e321f86-bed7-4e6f-8c3e-4184c94f0529",
       "repoHash": "f4218e44",
-      "figmaHash": "f4218e44",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f4218e44"
     },
     {
       "kind": "token",
       "driftId": "var/4f006231-7072-40eb-942d-3946320600fb",
       "repoHash": "a9a612ed",
-      "figmaHash": "a9a612ed",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a9a612ed"
     },
     {
       "kind": "token",
       "driftId": "var/4f1983d8-ff36-48ab-9b0c-e25d00ef8dca",
       "repoHash": "3c658149",
-      "figmaHash": "3c658149",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "3c658149"
     },
     {
       "kind": "token",
       "driftId": "var/4fac4af4-96f1-42ee-9d16-fcad3002a6ea",
       "repoHash": "29e95543",
-      "figmaHash": "29e95543",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "29e95543"
     },
     {
       "kind": "token",
       "driftId": "var/50278d1e-bff2-4f4d-ace9-14f6470ad91f",
       "repoHash": "b7982a3b",
-      "figmaHash": "b7982a3b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "b7982a3b"
     },
     {
       "kind": "token",
       "driftId": "var/502b9670-b48c-4495-8e70-be5c31da0a12",
       "repoHash": "c508c541",
-      "figmaHash": "c508c541",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "c508c541"
     },
     {
       "kind": "token",
       "driftId": "var/518b6f99-f9e4-4d5f-b736-98dd24093cad",
       "repoHash": "cad8bcbf",
-      "figmaHash": "cad8bcbf",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "cad8bcbf"
     },
     {
       "kind": "token",
       "driftId": "var/51904ac2-49b6-40b6-ba60-e8a31bb35a84",
       "repoHash": "e7b5ee02",
-      "figmaHash": "e7b5ee02",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e7b5ee02"
     },
     {
       "kind": "token",
       "driftId": "var/51c06d45-b0d0-406c-bce4-62e528dd7bf3",
       "repoHash": "3c930da1",
-      "figmaHash": "3c930da1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "3c930da1"
     },
     {
       "kind": "token",
       "driftId": "var/5329bd40-36a5-4f40-97fc-b374734193db",
       "repoHash": "f32ddbe1",
-      "figmaHash": "f32ddbe1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f32ddbe1"
     },
     {
       "kind": "token",
       "driftId": "var/53ebf59a-3b83-4f68-8193-9e9c3800703e",
       "repoHash": "eca6717b",
-      "figmaHash": "eca6717b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "eca6717b"
     },
     {
       "kind": "token",
       "driftId": "var/54a71ab7-4526-4796-9da3-8b549e4556c5",
       "repoHash": "c0456aeb",
-      "figmaHash": "c0456aeb",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "c0456aeb"
     },
     {
       "kind": "token",
       "driftId": "var/54aff1e1-a445-4d42-8488-6986c0a0d40b",
       "repoHash": "9f411f05",
-      "figmaHash": "9f411f05",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9f411f05"
     },
     {
       "kind": "token",
       "driftId": "var/559ac61b-993b-4383-8fb7-06b05c64a4d3",
       "repoHash": "5c1e1f8d",
-      "figmaHash": "5c1e1f8d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "5c1e1f8d"
     },
     {
       "kind": "token",
       "driftId": "var/56c97783-ad5d-4fa9-81fb-b29daeeb465d",
       "repoHash": "a07506ea",
-      "figmaHash": "a07506ea",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a07506ea"
     },
     {
       "kind": "token",
       "driftId": "var/5719049a-f7cc-4cc7-904e-d6aa7e1619e6",
       "repoHash": "0d0145fe",
-      "figmaHash": "0d0145fe",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "0d0145fe"
     },
     {
       "kind": "token",
       "driftId": "var/57466fd6-ff02-4def-9485-7d2143f0bd37",
       "repoHash": "431ff87a",
-      "figmaHash": "431ff87a",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "431ff87a"
     },
     {
       "kind": "token",
       "driftId": "var/5844a116-a267-48ee-bbc9-81f905a62645",
       "repoHash": "84dbb941",
-      "figmaHash": "84dbb941",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "84dbb941"
     },
     {
       "kind": "token",
       "driftId": "var/59b70420-e768-4431-b638-feaf7e8b2b1d",
       "repoHash": "88d7a1ff",
-      "figmaHash": "88d7a1ff",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "88d7a1ff"
     },
     {
       "kind": "token",
       "driftId": "var/5a2e7209-158a-42b8-b327-b3c39dc6fcdd",
       "repoHash": "33079203",
-      "figmaHash": "33079203",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "33079203"
     },
     {
       "kind": "token",
       "driftId": "var/5ad2b498-87d5-4415-a81b-6dec3b62477e",
       "repoHash": "03a3114a",
-      "figmaHash": "03a3114a",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "03a3114a"
     },
     {
       "kind": "token",
       "driftId": "var/5ba45f2e-ad77-4df8-b902-1ad474b390a9",
       "repoHash": "d5b1045e",
-      "figmaHash": "d5b1045e",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d5b1045e"
     },
     {
       "kind": "token",
       "driftId": "var/5be43717-6b40-4ebf-b328-5d37f2af6759",
       "repoHash": "ef1b8d87",
-      "figmaHash": "ef1b8d87",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "ef1b8d87"
     },
     {
       "kind": "token",
       "driftId": "var/5c7ad5e3-62d2-48bb-910e-130db0e6ca52",
       "repoHash": "51111041",
-      "figmaHash": "51111041",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "51111041"
     },
     {
       "kind": "token",
       "driftId": "var/5ca4df39-e845-4eca-a282-8ec6ca68e48e",
       "repoHash": "713123b8",
-      "figmaHash": "713123b8",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "713123b8"
     },
     {
       "kind": "token",
       "driftId": "var/5cf96001-8759-409b-a377-1f038979b69b",
       "repoHash": "9e7c8d73",
-      "figmaHash": "9e7c8d73",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9e7c8d73"
     },
     {
       "kind": "token",
       "driftId": "var/5e02925b-4878-4f57-924c-1642810e4906",
       "repoHash": "1894ba1d",
-      "figmaHash": "1894ba1d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "1894ba1d"
     },
     {
       "kind": "token",
       "driftId": "var/5f18424b-495a-4dd3-a050-8ea266d43da3",
       "repoHash": "2a414d0d",
-      "figmaHash": "2a414d0d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2a414d0d"
     },
     {
       "kind": "token",
       "driftId": "var/6040ad81-b825-4748-8c04-79322d092fc9",
       "repoHash": "8c07ed85",
-      "figmaHash": "8c07ed85",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "8c07ed85"
     },
     {
       "kind": "token",
       "driftId": "var/60771837-42ea-4d5f-86f7-c5c99def6719",
       "repoHash": "e7b5ee02",
-      "figmaHash": "e7b5ee02",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e7b5ee02"
     },
     {
       "kind": "token",
       "driftId": "var/61e4b4a0-a422-4901-9401-f343ed9cbc08",
       "repoHash": "44a8179c",
-      "figmaHash": "44a8179c",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "44a8179c"
     },
     {
       "kind": "token",
       "driftId": "var/6214667f-221f-4608-aaae-35cc2fc101f0",
       "repoHash": "3e18f84f",
-      "figmaHash": "3e18f84f",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "3e18f84f"
     },
     {
       "kind": "token",
       "driftId": "var/639844d2-2ab7-4cdf-881b-c7bc79e721c7",
       "repoHash": "53ba4f71",
-      "figmaHash": "53ba4f71",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "53ba4f71"
     },
     {
       "kind": "token",
       "driftId": "var/63cce6ca-8560-480c-9a5b-ee96545b5540",
       "repoHash": "03a3114a",
-      "figmaHash": "03a3114a",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "03a3114a"
     },
     {
       "kind": "token",
       "driftId": "var/66330650-d707-4335-aeb3-3b640c9c6e29",
       "repoHash": "a4bc79cd",
-      "figmaHash": "a4bc79cd",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a4bc79cd"
     },
     {
       "kind": "token",
       "driftId": "var/66a1f21e-fd2a-473d-806f-e34e330b5169",
       "repoHash": "6c9ed9d9",
-      "figmaHash": "6c9ed9d9",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6c9ed9d9"
     },
     {
       "kind": "token",
       "driftId": "var/66d276a5-6ea0-4710-8d6a-b277b7eecd9b",
       "repoHash": "d5b1045e",
-      "figmaHash": "d5b1045e",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d5b1045e"
     },
     {
       "kind": "token",
       "driftId": "var/6704e3c7-3380-4b94-8f02-d8e21c1be3ef",
       "repoHash": "9e9a6a51",
-      "figmaHash": "9e9a6a51",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9e9a6a51"
     },
     {
       "kind": "token",
       "driftId": "var/6742a3b5-171a-4a2e-834b-ab514d429184",
       "repoHash": "4bfc33ce",
-      "figmaHash": "4bfc33ce",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "4bfc33ce"
     },
     {
       "kind": "token",
       "driftId": "var/67f03646-33a8-4424-84c5-0a89799d9ae0",
       "repoHash": "8369042b",
-      "figmaHash": "8369042b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "8369042b"
     },
     {
       "kind": "token",
       "driftId": "var/6a0ed01e-ec11-43da-9808-15e4b43b3053",
       "repoHash": "218be603",
-      "figmaHash": "218be603",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "218be603"
     },
     {
       "kind": "token",
       "driftId": "var/6afff2c5-3b27-44fe-8f1d-40b66f2c97aa",
       "repoHash": "d4c97279",
-      "figmaHash": "d4c97279",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d4c97279"
     },
     {
       "kind": "token",
       "driftId": "var/6b78f94d-0149-4724-a478-c3dd38859dae",
       "repoHash": "ef1b8d87",
-      "figmaHash": "ef1b8d87",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "ef1b8d87"
     },
     {
       "kind": "token",
       "driftId": "var/6bfb945d-a475-4261-ae14-07302f1ad56d",
       "repoHash": "92d056a1",
-      "figmaHash": "92d056a1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "92d056a1"
     },
     {
       "kind": "token",
       "driftId": "var/6c1dda6e-8fa1-403f-a5c2-cd4ae4024b7f",
       "repoHash": "95992704",
-      "figmaHash": "95992704",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "95992704"
     },
     {
       "kind": "token",
       "driftId": "var/6c712e6b-4903-4c95-bf9a-b3f87db3d5ff",
       "repoHash": "9f411f05",
-      "figmaHash": "9f411f05",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9f411f05"
     },
     {
       "kind": "token",
       "driftId": "var/6cc208f4-a5b7-4e2e-ad56-17279853de0c",
       "repoHash": "27befbff",
-      "figmaHash": "27befbff",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "27befbff"
     },
     {
       "kind": "token",
       "driftId": "var/6deaff8c-261e-41eb-b9b3-78f75d2c4ff2",
       "repoHash": "51111041",
-      "figmaHash": "51111041",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "51111041"
     },
     {
       "kind": "token",
       "driftId": "var/6e9ac075-d5b7-42b5-8b20-33d7950f83a5",
       "repoHash": "f2f2bd93",
-      "figmaHash": "f2f2bd93",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f2f2bd93"
     },
     {
       "kind": "token",
       "driftId": "var/6fd02c31-cd3a-44ae-8881-1fc329c54b88",
       "repoHash": "a9a612ed",
-      "figmaHash": "a9a612ed",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a9a612ed"
     },
     {
       "kind": "token",
       "driftId": "var/700c49b6-511a-4e22-a61e-86198e71b86f",
       "repoHash": "d7c5a660",
-      "figmaHash": "d7c5a660",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d7c5a660"
     },
     {
       "kind": "token",
       "driftId": "var/70de25e9-17b7-4cd0-9ccc-ef730d30836f",
       "repoHash": "418b54eb",
-      "figmaHash": "418b54eb",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "418b54eb"
     },
     {
       "kind": "token",
       "driftId": "var/72a32191-1f15-46ea-8f7e-78899d84f95b",
       "repoHash": "e7b5ee02",
-      "figmaHash": "e7b5ee02",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e7b5ee02"
     },
     {
       "kind": "token",
       "driftId": "var/72d398bb-652b-4f6a-be19-b51d4da9274a",
       "repoHash": "27befbff",
-      "figmaHash": "27befbff",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "27befbff"
     },
     {
       "kind": "token",
       "driftId": "var/74834a83-24c1-4491-b299-ae88d763b1da",
       "repoHash": "9857c895",
-      "figmaHash": "9857c895",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9857c895"
     },
     {
       "kind": "token",
       "driftId": "var/74c75930-44ce-44e5-a7d4-a1de5d460923",
       "repoHash": "e7b5ee02",
-      "figmaHash": "e7b5ee02",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e7b5ee02"
     },
     {
       "kind": "token",
       "driftId": "var/753c2a89-bbef-4582-a657-d4f5af9b4408",
       "repoHash": "a7f97967",
-      "figmaHash": "a7f97967",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a7f97967"
     },
     {
       "kind": "token",
       "driftId": "var/75a7e853-3f33-4e58-afb1-9ab2fea57933",
       "repoHash": "2a414d0d",
-      "figmaHash": "2a414d0d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2a414d0d"
     },
     {
       "kind": "token",
       "driftId": "var/76232f06-5f5a-4d8c-a9ca-c90c2b4ca89c",
       "repoHash": "2d088281",
-      "figmaHash": "2d088281",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2d088281"
     },
     {
       "kind": "token",
       "driftId": "var/7634945e-f39b-4c76-ac20-bbdc77c845ec",
       "repoHash": "f8e6b581",
-      "figmaHash": "f8e6b581",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f8e6b581"
     },
     {
       "kind": "token",
       "driftId": "var/76deaa19-e998-48f5-ab8f-6bb955128423",
       "repoHash": "53cfe797",
-      "figmaHash": "53cfe797",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "53cfe797"
     },
     {
       "kind": "token",
       "driftId": "var/77e0048b-039f-41e4-9d0c-1d08446db53f",
       "repoHash": "f9fd2eef",
-      "figmaHash": "f9fd2eef",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f9fd2eef"
     },
     {
       "kind": "token",
       "driftId": "var/77ee76f4-ecec-4027-9b40-1dcb72c58279",
       "repoHash": "71206a7d",
-      "figmaHash": "71206a7d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "71206a7d"
     },
     {
       "kind": "token",
       "driftId": "var/781f4d30-5142-4347-a310-591c2dfb1653",
       "repoHash": "11517073",
-      "figmaHash": "11517073",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "11517073"
     },
     {
       "kind": "token",
       "driftId": "var/7854f922-5c92-4cdc-b991-c852036efcd2",
       "repoHash": "751a13a0",
-      "figmaHash": "751a13a0",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "751a13a0"
     },
     {
       "kind": "token",
       "driftId": "var/786e6f02-e99f-4045-8db5-fc5cf46dea87",
       "repoHash": "eaa1a935",
-      "figmaHash": "eaa1a935",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "eaa1a935"
     },
     {
       "kind": "token",
       "driftId": "var/78f37b34-71d4-405e-be98-82bde9f6a563",
       "repoHash": "efdb66d5",
-      "figmaHash": "efdb66d5",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "efdb66d5"
     },
     {
       "kind": "token",
       "driftId": "var/7909e334-2c48-4c5d-9561-d7ed1c2a51bc",
       "repoHash": "e98bcb73",
-      "figmaHash": "e98bcb73",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e98bcb73"
     },
     {
       "kind": "token",
       "driftId": "var/7a17c3a8-209f-4be0-9a89-21c9e6c268d1",
       "repoHash": "42c92ed3",
-      "figmaHash": "42c92ed3",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "42c92ed3"
     },
     {
       "kind": "token",
       "driftId": "var/7a56e50d-1ceb-43b0-90d0-e7b45cb17087",
       "repoHash": "9e7c8d73",
-      "figmaHash": "9e7c8d73",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9e7c8d73"
     },
     {
       "kind": "token",
       "driftId": "var/7aab9809-24b6-402d-b5eb-a8ce2c5d1deb",
       "repoHash": "793b228d",
-      "figmaHash": "793b228d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "793b228d"
     },
     {
       "kind": "token",
       "driftId": "var/7ab5169a-b5a9-42d8-9789-69393bbda031",
       "repoHash": "eca6717b",
-      "figmaHash": "eca6717b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "eca6717b"
     },
     {
       "kind": "token",
       "driftId": "var/7bd3337c-ed62-4af4-9803-ad409f7aebe0",
       "repoHash": "e636e049",
-      "figmaHash": "e636e049",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e636e049"
     },
     {
       "kind": "token",
       "driftId": "var/7c475b84-d0ae-4fcf-a573-ffe3b1d2a12d",
       "repoHash": "9fc67d61",
-      "figmaHash": "9fc67d61",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9fc67d61"
     },
     {
       "kind": "token",
       "driftId": "var/7cadfc50-0e63-4b66-aa63-77ae706850a0",
       "repoHash": "076e4112",
-      "figmaHash": "076e4112",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "076e4112"
     },
     {
       "kind": "token",
       "driftId": "var/7cae58c9-42aa-4754-913e-8a61ac990a81",
       "repoHash": "6c9ed9d9",
-      "figmaHash": "6c9ed9d9",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6c9ed9d9"
     },
     {
       "kind": "token",
       "driftId": "var/7cbe5105-6f57-455e-ba08-5b88b3322dd4",
       "repoHash": "22ef9594",
-      "figmaHash": "22ef9594",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "22ef9594"
     },
     {
       "kind": "token",
       "driftId": "var/7d186a94-6827-4116-a730-93e9c7d68ac3",
       "repoHash": "eca6717b",
-      "figmaHash": "eca6717b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "eca6717b"
     },
     {
       "kind": "token",
       "driftId": "var/7da25040-ae8f-41c0-bc98-2a13061f5ca0",
       "repoHash": "fe336ca7",
-      "figmaHash": "fe336ca7",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "fe336ca7"
     },
     {
       "kind": "token",
       "driftId": "var/7dbe770a-5ec3-44e4-a254-a7add95f7a88",
       "repoHash": "6e5c8c61",
-      "figmaHash": "6e5c8c61",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6e5c8c61"
     },
     {
       "kind": "token",
       "driftId": "var/7dcaf297-dc72-4de4-9862-9e9a65ee1af0",
       "repoHash": "11517073",
-      "figmaHash": "11517073",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "11517073"
     },
     {
       "kind": "token",
       "driftId": "var/7fc4e127-6f5d-4496-89b5-7e6935abcd9c",
       "repoHash": "0d0145fe",
-      "figmaHash": "0d0145fe",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "0d0145fe"
     },
     {
       "kind": "token",
       "driftId": "var/7fcc2be9-0467-497d-9aa7-70bf6e5a7908",
       "repoHash": "a2c31a27",
-      "figmaHash": "a2c31a27",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a2c31a27"
     },
     {
       "kind": "token",
       "driftId": "var/80966653-469e-4391-8deb-4d840c229881",
       "repoHash": "53cfe797",
-      "figmaHash": "53cfe797",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "53cfe797"
     },
     {
       "kind": "token",
       "driftId": "var/8337b3be-64dd-46f2-81a9-ccbdde581064",
       "repoHash": "fb5d3262",
-      "figmaHash": "fb5d3262",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "fb5d3262"
     },
     {
       "kind": "token",
       "driftId": "var/83f077db-6929-456a-9db5-57ff754091ca",
       "repoHash": "28f57614",
-      "figmaHash": "28f57614",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "28f57614"
     },
     {
       "kind": "token",
       "driftId": "var/8423c18d-dbec-4060-be68-e6b6d428e56f",
       "repoHash": "960dfef4",
-      "figmaHash": "960dfef4",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "960dfef4"
     },
     {
       "kind": "token",
       "driftId": "var/842d7f24-538e-431f-b77e-e621fd22af7f",
       "repoHash": "4f1162c7",
-      "figmaHash": "4f1162c7",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "4f1162c7"
     },
     {
       "kind": "token",
       "driftId": "var/856f94d0-372c-4c96-9408-3fb1bb385f18",
       "repoHash": "c9a64120",
-      "figmaHash": "c9a64120",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "c9a64120"
     },
     {
       "kind": "token",
       "driftId": "var/875610e7-f990-4bc9-b006-7223efcf244c",
       "repoHash": "80ddd3dd",
-      "figmaHash": "80ddd3dd",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "80ddd3dd"
     },
     {
       "kind": "token",
       "driftId": "var/884d5e74-dd1a-47b1-85aa-a77bb02c638c",
       "repoHash": "49857e89",
-      "figmaHash": "49857e89",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "49857e89"
     },
     {
       "kind": "token",
       "driftId": "var/8890bdf2-957b-4416-9316-51ca9f10b073",
       "repoHash": "9fc67d61",
-      "figmaHash": "9fc67d61",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9fc67d61"
     },
     {
       "kind": "token",
       "driftId": "var/8a38e109-ec30-4154-aff7-2f98beab16d6",
       "repoHash": "419666c1",
-      "figmaHash": "419666c1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "419666c1"
     },
     {
       "kind": "token",
       "driftId": "var/8a59fc69-d354-48fb-902a-e9bb3a322414",
       "repoHash": "25581bad",
-      "figmaHash": "25581bad",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "25581bad"
     },
     {
       "kind": "token",
       "driftId": "var/8a96ffaf-31fe-4554-a9d5-688e8fd8fe1a",
       "repoHash": "42c92ed3",
-      "figmaHash": "42c92ed3",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "42c92ed3"
     },
     {
       "kind": "token",
       "driftId": "var/8b08f592-f2dd-4727-aac4-b50eaf2df972",
       "repoHash": "a4bc79cd",
-      "figmaHash": "a4bc79cd",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a4bc79cd"
     },
     {
       "kind": "token",
       "driftId": "var/8b3b96eb-e656-4dc4-8ccf-ef4867ea4a21",
       "repoHash": "61ea5c5c",
-      "figmaHash": "61ea5c5c",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "61ea5c5c"
     },
     {
       "kind": "token",
       "driftId": "var/8b585033-e1d0-416a-94cd-ebea6f3f4114",
       "repoHash": "d28bcacd",
-      "figmaHash": "d28bcacd",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d28bcacd"
     },
     {
       "kind": "token",
       "driftId": "var/8c0ceac2-e89c-4f72-a4b8-d48f2072bf80",
       "repoHash": "e362337e",
-      "figmaHash": "e362337e",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e362337e"
     },
     {
       "kind": "token",
       "driftId": "var/8da8d6cb-a8d8-428e-92b2-4351a8eab934",
       "repoHash": "2a414d0d",
-      "figmaHash": "2a414d0d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2a414d0d"
     },
     {
       "kind": "token",
       "driftId": "var/8e09c7c6-13f1-4044-8245-af2a059d9e43",
       "repoHash": "45b34c2b",
-      "figmaHash": "45b34c2b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "45b34c2b"
     },
     {
       "kind": "token",
       "driftId": "var/8e10ca7f-58fc-4100-9f6f-90b435fba3e5",
       "repoHash": "f1c3c0cf",
-      "figmaHash": "f1c3c0cf",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f1c3c0cf"
     },
     {
       "kind": "token",
       "driftId": "var/8e9024d6-f10c-46de-ac60-7d2e98ee33e9",
       "repoHash": "f2f2bd93",
-      "figmaHash": "f2f2bd93",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f2f2bd93"
     },
     {
       "kind": "token",
       "driftId": "var/8ff3a1bb-6ae5-4ec3-9615-f079488cdca1",
       "repoHash": "d424f980",
-      "figmaHash": "d424f980",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d424f980"
     },
     {
       "kind": "token",
       "driftId": "var/9025a861-498d-4ce2-b8cc-62c064aa4b33",
       "repoHash": "f338b12f",
-      "figmaHash": "f338b12f",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f338b12f"
     },
     {
       "kind": "token",
       "driftId": "var/906dbaa9-dc47-4c6a-8ffa-60954f9d2661",
       "repoHash": "a12855cb",
-      "figmaHash": "a12855cb",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a12855cb"
     },
     {
       "kind": "token",
       "driftId": "var/90bf47e6-992b-4498-ba0c-b731f51459d0",
       "repoHash": "fab3ff41",
-      "figmaHash": "fab3ff41",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "fab3ff41"
     },
     {
       "kind": "token",
       "driftId": "var/90c3c0ed-3a9f-4d37-a1a5-d9d5c8af080d",
       "repoHash": "ef1b8d87",
-      "figmaHash": "ef1b8d87",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "ef1b8d87"
     },
     {
       "kind": "token",
       "driftId": "var/91600608-4c7e-4766-b753-12ae4478ba67",
       "repoHash": "84a48294",
-      "figmaHash": "84a48294",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "84a48294"
     },
     {
       "kind": "token",
       "driftId": "var/9224350f-cf6a-4da0-b695-54c1b83aae3c",
       "repoHash": "6f09c729",
-      "figmaHash": "6f09c729",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6f09c729"
     },
     {
       "kind": "token",
       "driftId": "var/925ff180-2fd4-4c47-9c8b-b67e2210efe5",
       "repoHash": "f8548f9d",
-      "figmaHash": "f8548f9d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f8548f9d"
     },
     {
       "kind": "token",
       "driftId": "var/94d96a1f-e6f3-41d9-a355-d3ffd550322f",
       "repoHash": "81a38428",
-      "figmaHash": "81a38428",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "81a38428"
     },
     {
       "kind": "token",
       "driftId": "var/94f999a3-36e8-4b46-a0ad-d8953771976d",
       "repoHash": "bb6fd0ce",
-      "figmaHash": "bb6fd0ce",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "bb6fd0ce"
     },
     {
       "kind": "token",
       "driftId": "var/97069bae-e46d-458b-8632-c557469ff70e",
       "repoHash": "2caa1e9c",
-      "figmaHash": "2caa1e9c",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2caa1e9c"
     },
     {
       "kind": "token",
       "driftId": "var/976d3215-b13b-47b9-86bb-c65be88d7e6f",
       "repoHash": "899a5378",
-      "figmaHash": "899a5378",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "899a5378"
     },
     {
       "kind": "token",
       "driftId": "var/9852255b-d37a-4ecc-a30d-1a9a7a57710b",
       "repoHash": "4516d8fc",
-      "figmaHash": "4516d8fc",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "4516d8fc"
     },
     {
       "kind": "token",
       "driftId": "var/986444f7-dd37-4921-99ec-a019e7d29eec",
       "repoHash": "eeaa7b06",
-      "figmaHash": "eeaa7b06",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "eeaa7b06"
     },
     {
       "kind": "token",
       "driftId": "var/99d6b643-f36e-478f-bf87-2017a2062b6f",
       "repoHash": "92ce21d9",
-      "figmaHash": "92ce21d9",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "92ce21d9"
     },
     {
       "kind": "token",
       "driftId": "var/9a2236df-fbe9-4c29-b3a8-bccbde28355c",
       "repoHash": "fab3ff41",
-      "figmaHash": "fab3ff41",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "fab3ff41"
     },
     {
       "kind": "token",
       "driftId": "var/9a2b9053-1ffa-4da2-bf7b-e4a6f803de65",
       "repoHash": "e636e049",
-      "figmaHash": "e636e049",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e636e049"
     },
     {
       "kind": "token",
       "driftId": "var/9af61e5d-9fc8-4e90-b406-4e3327efef90",
       "repoHash": "d2708d08",
-      "figmaHash": "d2708d08",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d2708d08"
     },
     {
       "kind": "token",
       "driftId": "var/9b225c5c-ffe8-4f44-b708-9d6ecf72cd5a",
       "repoHash": "254e77b2",
-      "figmaHash": "254e77b2",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "254e77b2"
     },
     {
       "kind": "token",
       "driftId": "var/9b7f8ecc-98dd-487f-a50e-b2b330fd00a2",
       "repoHash": "6fce2aaf",
-      "figmaHash": "6fce2aaf",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6fce2aaf"
     },
     {
       "kind": "token",
       "driftId": "var/9bba3b40-afff-464d-93a5-cec72cb5d37a",
       "repoHash": "0b53008b",
-      "figmaHash": "0b53008b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "0b53008b"
     },
     {
       "kind": "token",
       "driftId": "var/9c4cbe79-02ac-4af2-af0d-ef429c3391eb",
       "repoHash": "0d0145fe",
-      "figmaHash": "0d0145fe",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "0d0145fe"
     },
     {
       "kind": "token",
       "driftId": "var/9eafe473-a9d6-411a-9b81-f099dbb1da73",
       "repoHash": "e7b5ee02",
-      "figmaHash": "e7b5ee02",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e7b5ee02"
     },
     {
       "kind": "token",
       "driftId": "var/9fbce808-76c7-47dc-b04f-514de185cc8b",
       "repoHash": "5b6a2109",
-      "figmaHash": "5b6a2109",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "5b6a2109"
     },
     {
       "kind": "token",
       "driftId": "var/a1b73c9c-3d01-464f-8e53-d8359f47e0d7",
       "repoHash": "723a690b",
-      "figmaHash": "723a690b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "723a690b"
     },
     {
       "kind": "token",
       "driftId": "var/a1fcc4c0-a0c7-415c-8569-81dcd8316777",
       "repoHash": "6f09c729",
-      "figmaHash": "6f09c729",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6f09c729"
     },
     {
       "kind": "token",
       "driftId": "var/a36cbb22-2d92-4d89-b825-10a91bfdabc2",
       "repoHash": "45b34c2b",
-      "figmaHash": "45b34c2b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "45b34c2b"
     },
     {
       "kind": "token",
       "driftId": "var/a3d8b034-0c43-4155-b0a9-6b6402cb9a70",
       "repoHash": "fc3b733c",
-      "figmaHash": "fc3b733c",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "fc3b733c"
     },
     {
       "kind": "token",
       "driftId": "var/a43d2085-6544-4b43-b91b-8a4be02e478c",
       "repoHash": "d50cee08",
-      "figmaHash": "d50cee08",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d50cee08"
     },
     {
       "kind": "token",
       "driftId": "var/a48dd998-fcbd-414d-a107-aec88954f7f3",
       "repoHash": "60f815f9",
-      "figmaHash": "60f815f9",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "60f815f9"
     },
     {
       "kind": "token",
       "driftId": "var/a4e81bfd-9ceb-4007-8a07-8816418fc845",
       "repoHash": "beab646f",
-      "figmaHash": "beab646f",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "beab646f"
     },
     {
       "kind": "token",
       "driftId": "var/a4ea04fc-891d-4dd3-a45c-20144714fce6",
       "repoHash": "a4bc79cd",
-      "figmaHash": "a4bc79cd",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a4bc79cd"
     },
     {
       "kind": "token",
       "driftId": "var/a6715c24-bfab-44ec-928d-edcebc7aaa93",
       "repoHash": "b07b3dd9",
-      "figmaHash": "b07b3dd9",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "b07b3dd9"
     },
     {
       "kind": "token",
       "driftId": "var/a676d4d3-efa7-4af6-bb5f-c3809dafd222",
       "repoHash": "f1c3c0cf",
-      "figmaHash": "f1c3c0cf",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f1c3c0cf"
     },
     {
       "kind": "token",
       "driftId": "var/a6973a8c-81a6-47b9-b6e7-7e573f1cc965",
       "repoHash": "9e9a6a51",
-      "figmaHash": "9e9a6a51",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9e9a6a51"
     },
     {
       "kind": "token",
       "driftId": "var/a6c272ae-203a-4750-a29e-13f01b93ec28",
       "repoHash": "899a5378",
-      "figmaHash": "899a5378",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "899a5378"
     },
     {
       "kind": "token",
       "driftId": "var/a6fb3e00-0de7-4084-a546-a56dcbf0234d",
       "repoHash": "80ddd3dd",
-      "figmaHash": "80ddd3dd",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "80ddd3dd"
     },
     {
       "kind": "token",
       "driftId": "var/a6fbed62-4fb0-462d-ade2-68c4cecbc7f0",
       "repoHash": "e98bcb73",
-      "figmaHash": "e98bcb73",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e98bcb73"
     },
     {
       "kind": "token",
       "driftId": "var/a7982c37-5928-4c8f-8f7a-6e9bc6b03a5c",
       "repoHash": "5b41a55c",
-      "figmaHash": "5b41a55c",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "5b41a55c"
     },
     {
       "kind": "token",
       "driftId": "var/a7cf2980-7ab2-4a59-8eba-73ddc4aba65c",
       "repoHash": "9f69561c",
-      "figmaHash": "9f69561c",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9f69561c"
     },
     {
       "kind": "token",
       "driftId": "var/a81244a7-e015-4ce1-93a1-9ac0bbb28552",
       "repoHash": "27befbff",
-      "figmaHash": "27befbff",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "27befbff"
     },
     {
       "kind": "token",
       "driftId": "var/a90749b5-22be-48fb-9e33-27ee91883fc5",
       "repoHash": "f338b12f",
-      "figmaHash": "f338b12f",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f338b12f"
     },
     {
       "kind": "token",
       "driftId": "var/aa13fa63-50ef-4e55-b147-ad0273a886d7",
       "repoHash": "f338b12f",
-      "figmaHash": "f338b12f",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f338b12f"
     },
     {
       "kind": "token",
       "driftId": "var/aaad5e8c-7501-4a9a-93e6-985ae7a24d6a",
       "repoHash": "94a03597",
-      "figmaHash": "94a03597",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "94a03597"
     },
     {
       "kind": "token",
       "driftId": "var/ab68f30b-30ad-4d8a-b91e-d7a17809302a",
       "repoHash": "9bd929b3",
-      "figmaHash": "9bd929b3",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9bd929b3"
     },
     {
       "kind": "token",
       "driftId": "var/ac08e858-4a7f-45f5-b85c-6e06d50173d5",
       "repoHash": "51111041",
-      "figmaHash": "51111041",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "51111041"
     },
     {
       "kind": "token",
       "driftId": "var/b0ea085a-6139-4630-b08b-e2d16c41b3b8",
       "repoHash": "218be603",
-      "figmaHash": "218be603",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "218be603"
     },
     {
       "kind": "token",
       "driftId": "var/b0fb3c9a-b0f9-405d-866c-c35382e8a0db",
       "repoHash": "f4a0a44d",
-      "figmaHash": "f4a0a44d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f4a0a44d"
     },
     {
       "kind": "token",
       "driftId": "var/b3dd0890-2ff3-4ab2-a538-827aee25a3ac",
       "repoHash": "cacc349b",
-      "figmaHash": "cacc349b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "cacc349b"
     },
     {
       "kind": "token",
       "driftId": "var/b48a3b4b-2dae-4bd5-923f-305798862e29",
-      "repoHash": "9e5310bf",
-      "figmaHash": "9e5310bf",
+      "repoHash": "848d3857",
+      "figmaHash": "848d3857",
       "repoPath": "fighub/tokens.json",
       "sidecarAdopted": true
     },
@@ -2352,1057 +1786,793 @@
       "kind": "token",
       "driftId": "var/b5bff748-dc62-403c-9784-30f53831dafb",
       "repoHash": "11517073",
-      "figmaHash": "11517073",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "11517073"
     },
     {
       "kind": "token",
       "driftId": "var/b680f68e-202c-4d9c-8df7-12f8abb1f550",
       "repoHash": "751a13a0",
-      "figmaHash": "751a13a0",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "751a13a0"
     },
     {
       "kind": "token",
       "driftId": "var/b73fedf1-d307-44c9-9a34-14dfd8272713",
       "repoHash": "622ed620",
-      "figmaHash": "622ed620",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "622ed620"
     },
     {
       "kind": "token",
       "driftId": "var/b81c57dc-fe2b-4432-80cc-0d94fa8bb8b3",
       "repoHash": "42c92ed3",
-      "figmaHash": "42c92ed3",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "42c92ed3"
     },
     {
       "kind": "token",
       "driftId": "var/b898c9b2-6aeb-470a-8dc1-8266a77c12a1",
       "repoHash": "89f833a8",
-      "figmaHash": "89f833a8",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "89f833a8"
     },
     {
       "kind": "token",
       "driftId": "var/b8ebc0d0-449b-4c37-870c-9e3e9be1397b",
       "repoHash": "42c92ed3",
-      "figmaHash": "42c92ed3",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "42c92ed3"
     },
     {
       "kind": "token",
       "driftId": "var/b9918d1a-b4fe-43c9-9f1b-c960526bbf77",
       "repoHash": "a82a3d26",
-      "figmaHash": "a82a3d26",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a82a3d26"
     },
     {
       "kind": "token",
       "driftId": "var/bb1f9901-3938-476f-b08e-5ef6ca6c6a75",
       "repoHash": "1022e2b6",
-      "figmaHash": "1022e2b6",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "1022e2b6"
     },
     {
       "kind": "token",
       "driftId": "var/bc7a071a-6de2-47d6-a8b9-e6a546bdaa95",
       "repoHash": "d5b1045e",
-      "figmaHash": "d5b1045e",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d5b1045e"
     },
     {
       "kind": "token",
       "driftId": "var/bcd6d12a-d78e-4d07-956d-563cd00eb016",
       "repoHash": "0c7a7ee4",
-      "figmaHash": "0c7a7ee4",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "0c7a7ee4"
     },
     {
       "kind": "token",
       "driftId": "var/bd982422-b745-46b2-8542-3e284bda8894",
       "repoHash": "e98bcb73",
-      "figmaHash": "e98bcb73",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e98bcb73"
     },
     {
       "kind": "token",
       "driftId": "var/bdeae62a-dc7f-4670-86db-850a908f0d04",
       "repoHash": "f8548f9d",
-      "figmaHash": "f8548f9d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f8548f9d"
     },
     {
       "kind": "token",
       "driftId": "var/be5b99cd-8e56-4b47-bafc-d0a60a1bda84",
       "repoHash": "7008f8a8",
-      "figmaHash": "7008f8a8",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "7008f8a8"
     },
     {
       "kind": "token",
       "driftId": "var/beb37a7f-576a-4be8-96e8-50b040140150",
       "repoHash": "b07b3dd9",
-      "figmaHash": "b07b3dd9",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "b07b3dd9"
     },
     {
       "kind": "token",
       "driftId": "var/c0004089-1237-48ce-aad4-09ababf1fb7d",
       "repoHash": "bf3c1c3a",
-      "figmaHash": "bf3c1c3a",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "bf3c1c3a"
     },
     {
       "kind": "token",
       "driftId": "var/c00b42fb-eec8-4f18-92c2-a730b97a3e8c",
       "repoHash": "9f69561c",
-      "figmaHash": "9f69561c",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9f69561c"
     },
     {
       "kind": "token",
       "driftId": "var/c0605ced-2df0-49d4-bb75-1912fe9fe64f",
       "repoHash": "e33641ea",
-      "figmaHash": "e33641ea",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e33641ea"
     },
     {
       "kind": "token",
       "driftId": "var/c0a4cd6f-9195-4a6e-8143-4b4ca8e90652",
       "repoHash": "a9a612ed",
-      "figmaHash": "a9a612ed",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a9a612ed"
     },
     {
       "kind": "token",
       "driftId": "var/c0a8b14d-b615-428e-b4e0-7a48a063c310",
       "repoHash": "d4685697",
-      "figmaHash": "d4685697",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d4685697"
     },
     {
       "kind": "token",
       "driftId": "var/c185c9be-4664-454e-a981-60f07f6c63c9",
       "repoHash": "78d867c8",
-      "figmaHash": "78d867c8",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "78d867c8"
     },
     {
       "kind": "token",
       "driftId": "var/c19c4489-4338-4a7b-be1f-a7a9abfb80c9",
       "repoHash": "622ed620",
-      "figmaHash": "622ed620",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "622ed620"
     },
     {
       "kind": "token",
       "driftId": "var/c1b3187d-7069-42c2-9aba-e6fe229d5287",
       "repoHash": "ee32d330",
-      "figmaHash": "ee32d330",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "ee32d330"
     },
     {
       "kind": "token",
       "driftId": "var/c2dd685c-1225-45b4-ba1d-49924771fb69",
       "repoHash": "70b9f227",
-      "figmaHash": "70b9f227",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "70b9f227"
     },
     {
       "kind": "token",
       "driftId": "var/c369ab42-da3c-48f9-9c8a-ffe6d8d35f48",
       "repoHash": "eeaa7b06",
-      "figmaHash": "eeaa7b06",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "eeaa7b06"
     },
     {
       "kind": "token",
       "driftId": "var/c4862c82-f2a2-4f80-bb99-a8e3317e6f9a",
       "repoHash": "a9a612ed",
-      "figmaHash": "a9a612ed",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a9a612ed"
     },
     {
       "kind": "token",
       "driftId": "var/c49770b5-61d4-430b-b730-4b1eb2d73bf0",
       "repoHash": "fab3ff41",
-      "figmaHash": "fab3ff41",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "fab3ff41"
     },
     {
       "kind": "token",
       "driftId": "var/c4f652df-c58c-48c7-ac2b-12f8d211ab0d",
       "repoHash": "689e4aee",
-      "figmaHash": "689e4aee",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "689e4aee"
     },
     {
       "kind": "token",
       "driftId": "var/c53ea654-bded-42c0-9c61-791b7d240919",
       "repoHash": "f32ddbe1",
-      "figmaHash": "f32ddbe1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f32ddbe1"
     },
     {
       "kind": "token",
       "driftId": "var/c76c7920-a24a-4105-a356-7a3de9c32514",
       "repoHash": "49857e89",
-      "figmaHash": "49857e89",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "49857e89"
     },
     {
       "kind": "token",
       "driftId": "var/c775b63c-5c1f-4639-925e-112404b51678",
       "repoHash": "30471865",
-      "figmaHash": "30471865",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "30471865"
     },
     {
       "kind": "token",
       "driftId": "var/c7a772c1-f196-419c-8865-ccc23d035aad",
       "repoHash": "4ff194f4",
-      "figmaHash": "4ff194f4",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "4ff194f4"
     },
     {
       "kind": "token",
       "driftId": "var/c8d7b224-7f2f-43ba-8185-4cd0690e6888",
       "repoHash": "419666c1",
-      "figmaHash": "419666c1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "419666c1"
     },
     {
       "kind": "token",
       "driftId": "var/ca46a128-2387-4d89-bf0a-0ae0e9720873",
       "repoHash": "2f258117",
-      "figmaHash": "2f258117",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2f258117"
     },
     {
       "kind": "token",
       "driftId": "var/ca699b3a-125c-49bc-999d-0a0b4edd0cb2",
       "repoHash": "3c658149",
-      "figmaHash": "3c658149",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "3c658149"
     },
     {
       "kind": "token",
       "driftId": "var/cbb11041-7be9-4741-b68e-9aa8d7518ac0",
       "repoHash": "899a5378",
-      "figmaHash": "899a5378",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "899a5378"
     },
     {
       "kind": "token",
       "driftId": "var/cc6a7df7-9afa-4f6e-a999-069c3c7300f7",
       "repoHash": "f32ddbe1",
-      "figmaHash": "f32ddbe1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f32ddbe1"
     },
     {
       "kind": "token",
       "driftId": "var/cd5a6296-262e-4f1c-b2ad-a9a308907b81",
       "repoHash": "b1c612f1",
-      "figmaHash": "b1c612f1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "b1c612f1"
     },
     {
       "kind": "token",
       "driftId": "var/cd672025-74d8-447b-93c1-365bb74b35b3",
       "repoHash": "34d4c9d5",
-      "figmaHash": "34d4c9d5",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "34d4c9d5"
     },
     {
       "kind": "token",
       "driftId": "var/cdd08b8b-4ddf-469e-94b2-279ba3f4a0b0",
       "repoHash": "1e59e10f",
-      "figmaHash": "1e59e10f",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "1e59e10f"
     },
     {
       "kind": "token",
       "driftId": "var/cecf6cf4-3966-4ed2-8f02-2f45a3d62162",
       "repoHash": "9f411f05",
-      "figmaHash": "9f411f05",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9f411f05"
     },
     {
       "kind": "token",
       "driftId": "var/cee5e6f2-b061-43b7-8140-9403965a617f",
       "repoHash": "e7b5ee02",
-      "figmaHash": "e7b5ee02",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e7b5ee02"
     },
     {
       "kind": "token",
       "driftId": "var/cf7789b9-a5bc-4726-82c4-fea0e4150dc1",
       "repoHash": "218be603",
-      "figmaHash": "218be603",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "218be603"
     },
     {
       "kind": "token",
       "driftId": "var/d05c9bde-dc9f-4788-96cd-be85dc03bd17",
       "repoHash": "f8fc8bf1",
-      "figmaHash": "f8fc8bf1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f8fc8bf1"
     },
     {
       "kind": "token",
       "driftId": "var/d1574af0-039e-44cb-b185-5ccd492887fd",
       "repoHash": "cacc349b",
-      "figmaHash": "cacc349b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "cacc349b"
     },
     {
       "kind": "token",
       "driftId": "var/d183cee0-965f-4e9c-94e2-6a76817e67af",
       "repoHash": "49857e89",
-      "figmaHash": "49857e89",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "49857e89"
     },
     {
       "kind": "token",
       "driftId": "var/d1c5159a-979e-4b77-8571-2bee7a00a5e1",
       "repoHash": "6f09c729",
-      "figmaHash": "6f09c729",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6f09c729"
     },
     {
       "kind": "token",
       "driftId": "var/d206b8c6-5dfb-44ed-9934-6cb70af0482a",
       "repoHash": "e7b5ee02",
-      "figmaHash": "e7b5ee02",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e7b5ee02"
     },
     {
       "kind": "token",
       "driftId": "var/d2b5e681-0d9f-423c-8ec4-c0ee1fd4069c",
       "repoHash": "2d088281",
-      "figmaHash": "2d088281",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2d088281"
     },
     {
       "kind": "token",
       "driftId": "var/d2e78c85-dbe2-4941-bb24-c2053c3ce4d2",
       "repoHash": "749b32a8",
-      "figmaHash": "749b32a8",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "749b32a8"
     },
     {
       "kind": "token",
       "driftId": "var/d3a89de2-eda5-490b-9336-73aababa9f75",
       "repoHash": "d8872a55",
-      "figmaHash": "d8872a55",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d8872a55"
     },
     {
       "kind": "token",
       "driftId": "var/d3b6873e-d222-4051-bd52-63ead76f24a7",
       "repoHash": "436dab46",
-      "figmaHash": "436dab46",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "436dab46"
     },
     {
       "kind": "token",
       "driftId": "var/d590d18c-c0e5-4986-b5d0-8b433e16f18a",
       "repoHash": "f4805eca",
-      "figmaHash": "f4805eca",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f4805eca"
     },
     {
       "kind": "token",
       "driftId": "var/d6934f2e-c5bf-4097-8509-7d56eb351293",
       "repoHash": "2d088281",
-      "figmaHash": "2d088281",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2d088281"
     },
     {
       "kind": "token",
       "driftId": "var/d6e4c2ff-ea98-487e-8157-1add66bd2d15",
       "repoHash": "d8872a55",
-      "figmaHash": "d8872a55",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d8872a55"
     },
     {
       "kind": "token",
       "driftId": "var/d7f9118a-f186-4a64-afcb-7dbec69ea7af",
       "repoHash": "899a5378",
-      "figmaHash": "899a5378",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "899a5378"
     },
     {
       "kind": "token",
       "driftId": "var/d85158f3-7560-4839-b416-6b6b8bba25da",
       "repoHash": "81a38428",
-      "figmaHash": "81a38428",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "81a38428"
     },
     {
       "kind": "token",
       "driftId": "var/d8baf25b-796e-4daa-93d7-4de960c68a13",
       "repoHash": "0b53008b",
-      "figmaHash": "0b53008b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "0b53008b"
     },
     {
       "kind": "token",
       "driftId": "var/d90eb0fd-853e-43b5-8cdd-3520296f3386",
       "repoHash": "84dbb941",
-      "figmaHash": "84dbb941",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "84dbb941"
     },
     {
       "kind": "token",
       "driftId": "var/d931d197-2d1a-4a2d-a80c-44feda582cd5",
       "repoHash": "59ea87d6",
-      "figmaHash": "59ea87d6",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "59ea87d6"
     },
     {
       "kind": "token",
       "driftId": "var/da2e2fac-9f7e-497f-b03c-26a8c49eecbc",
       "repoHash": "6f09c729",
-      "figmaHash": "6f09c729",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6f09c729"
     },
     {
       "kind": "token",
       "driftId": "var/da41d3fc-745a-4ea1-8ccb-271b14fb7ba0",
       "repoHash": "fb36e27d",
-      "figmaHash": "fb36e27d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "fb36e27d"
     },
     {
       "kind": "token",
       "driftId": "var/daf00c59-badc-4ed3-a5fb-c69a88da31d6",
       "repoHash": "e636e049",
-      "figmaHash": "e636e049",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e636e049"
     },
     {
       "kind": "token",
       "driftId": "var/dbdfbe91-3802-4c63-8451-10c194e218dc",
       "repoHash": "efdf1e06",
-      "figmaHash": "efdf1e06",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "efdf1e06"
     },
     {
       "kind": "token",
       "driftId": "var/dc547f9d-1f55-4b42-acf8-b3e666e8dbed",
       "repoHash": "17956dab",
-      "figmaHash": "17956dab",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "17956dab"
     },
     {
       "kind": "token",
       "driftId": "var/dce4cf76-8a74-4fbb-a2ee-1a106767ef2a",
       "repoHash": "9f69561c",
-      "figmaHash": "9f69561c",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9f69561c"
     },
     {
       "kind": "token",
       "driftId": "var/dd1b4a55-9615-4c63-b363-d7928cd7cb5e",
       "repoHash": "49857e89",
-      "figmaHash": "49857e89",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "49857e89"
     },
     {
       "kind": "token",
       "driftId": "var/de438259-7fdb-4614-9fe5-0f1f41d85074",
       "repoHash": "e0bc2703",
-      "figmaHash": "e0bc2703",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e0bc2703"
     },
     {
       "kind": "token",
       "driftId": "var/dea20645-8afb-49ed-a24e-8f611fc934ae",
       "repoHash": "49857e89",
-      "figmaHash": "49857e89",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "49857e89"
     },
     {
       "kind": "token",
       "driftId": "var/dfbc7996-d1c3-4fbe-98f5-d4fbab500d53",
       "repoHash": "6d0cbdc6",
-      "figmaHash": "6d0cbdc6",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6d0cbdc6"
     },
     {
       "kind": "token",
       "driftId": "var/dffb1e0c-b9c4-456a-84e9-4062efb79993",
       "repoHash": "e4845d91",
-      "figmaHash": "e4845d91",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e4845d91"
     },
     {
       "kind": "token",
       "driftId": "var/e0061358-e20d-4080-8e97-23fa708995fa",
       "repoHash": "3c930da1",
-      "figmaHash": "3c930da1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "3c930da1"
     },
     {
       "kind": "token",
       "driftId": "var/e007e199-03ec-4c7c-bc81-265787a50c95",
       "repoHash": "49857e89",
-      "figmaHash": "49857e89",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "49857e89"
     },
     {
       "kind": "token",
       "driftId": "var/e027640b-3244-483a-8c4b-45a77802a168",
       "repoHash": "eca6717b",
-      "figmaHash": "eca6717b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "eca6717b"
     },
     {
       "kind": "token",
       "driftId": "var/e07c7410-2f04-4d5d-82cc-fc76b60ccf92",
       "repoHash": "4a877574",
-      "figmaHash": "4a877574",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "4a877574"
     },
     {
       "kind": "token",
       "driftId": "var/e24c7352-3ebc-41a4-bee8-52f4ffaa4792",
       "repoHash": "6e5c8c61",
-      "figmaHash": "6e5c8c61",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6e5c8c61"
     },
     {
       "kind": "token",
       "driftId": "var/e3792cc9-df65-40c1-b882-bed0e9833244",
       "repoHash": "2a414d0d",
-      "figmaHash": "2a414d0d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2a414d0d"
     },
     {
       "kind": "token",
       "driftId": "var/e3e82d9e-183e-4473-83e1-20043dd2eff2",
       "repoHash": "beab646f",
-      "figmaHash": "beab646f",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "beab646f"
     },
     {
       "kind": "token",
       "driftId": "var/e422af8e-0fee-47a9-88ad-a029d5814221",
       "repoHash": "f8548f9d",
-      "figmaHash": "f8548f9d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f8548f9d"
     },
     {
       "kind": "token",
       "driftId": "var/e462c3df-9eae-4e63-b49d-3efc0fcdd56f",
       "repoHash": "61ea5c5c",
-      "figmaHash": "61ea5c5c",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "61ea5c5c"
     },
     {
       "kind": "token",
       "driftId": "var/e51aad7b-1612-4349-a6a8-48320a6e930b",
       "repoHash": "9fc67d61",
-      "figmaHash": "9fc67d61",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9fc67d61"
     },
     {
       "kind": "token",
       "driftId": "var/e54188c2-f6a7-4450-bdf7-8c9f49bb5690",
       "repoHash": "7601da71",
-      "figmaHash": "7601da71",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "7601da71"
     },
     {
       "kind": "token",
       "driftId": "var/e6926589-be62-4dba-beeb-727589bd1977",
       "repoHash": "0a4d628b",
-      "figmaHash": "0a4d628b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "0a4d628b"
     },
     {
       "kind": "token",
       "driftId": "var/e6f76680-013b-4cbc-86b2-435057531d6d",
       "repoHash": "706f3d8e",
-      "figmaHash": "706f3d8e",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "706f3d8e"
     },
     {
       "kind": "token",
       "driftId": "var/e76c2197-4dec-441f-b276-48c7e9c954a6",
       "repoHash": "1b232581",
-      "figmaHash": "1b232581",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "1b232581"
     },
     {
       "kind": "token",
       "driftId": "var/e9a310c4-eec4-4e31-beeb-113fc3f790aa",
       "repoHash": "d8872a55",
-      "figmaHash": "d8872a55",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d8872a55"
     },
     {
       "kind": "token",
       "driftId": "var/e9dfc72e-9b2f-483d-9160-4ddf871c4299",
       "repoHash": "db8477a0",
-      "figmaHash": "db8477a0",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "db8477a0"
     },
     {
       "kind": "token",
       "driftId": "var/ea1b0827-2637-48e7-b579-a994ccded3f9",
       "repoHash": "cd36ac02",
-      "figmaHash": "cd36ac02",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "cd36ac02"
     },
     {
       "kind": "token",
       "driftId": "var/eb1aaa05-8a82-488a-967f-f036434c6138",
       "repoHash": "1b44af62",
-      "figmaHash": "1b44af62",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "1b44af62"
     },
     {
       "kind": "token",
       "driftId": "var/eba7160c-6a2d-47f8-9a0a-dc441b57d5c8",
       "repoHash": "eeaa7b06",
-      "figmaHash": "eeaa7b06",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "eeaa7b06"
     },
     {
       "kind": "token",
       "driftId": "var/ebeffdc1-ec0a-444e-8cc9-6d60e5cd049a",
       "repoHash": "d81d4bd2",
-      "figmaHash": "d81d4bd2",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d81d4bd2"
     },
     {
       "kind": "token",
       "driftId": "var/ed1b7d18-8fa0-45cb-b627-2c183f1b0a91",
       "repoHash": "f70b614d",
-      "figmaHash": "f70b614d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f70b614d"
     },
     {
       "kind": "token",
       "driftId": "var/ed7dfc7e-5eb8-446e-94fd-f50a2cfc2cb2",
       "repoHash": "f32ddbe1",
-      "figmaHash": "f32ddbe1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f32ddbe1"
     },
     {
       "kind": "token",
       "driftId": "var/edadd3d6-0f44-4dfa-8628-431aa8bb5c14",
       "repoHash": "e98bcb73",
-      "figmaHash": "e98bcb73",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e98bcb73"
     },
     {
       "kind": "token",
       "driftId": "var/edb15f09-758d-40bf-a9dc-3de5c8a20c72",
       "repoHash": "92ce21d9",
-      "figmaHash": "92ce21d9",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "92ce21d9"
     },
     {
       "kind": "token",
       "driftId": "var/eeca9e06-eed4-480f-82c3-1b2f37a5912c",
       "repoHash": "7601da71",
-      "figmaHash": "7601da71",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "7601da71"
     },
     {
       "kind": "token",
       "driftId": "var/ef93a26c-11b0-4a5f-897b-118c35971e86",
       "repoHash": "89f833a8",
-      "figmaHash": "89f833a8",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "89f833a8"
     },
     {
       "kind": "token",
       "driftId": "var/f01730d1-7415-4622-a4c5-dbbdc2ac68aa",
       "repoHash": "7860dbab",
-      "figmaHash": "7860dbab",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "7860dbab"
     },
     {
       "kind": "token",
       "driftId": "var/f0454783-caaf-463d-9de0-ea100990ff8a",
       "repoHash": "6c038847",
-      "figmaHash": "6c038847",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6c038847"
     },
     {
       "kind": "token",
       "driftId": "var/f0552e8f-9474-424a-8305-22f946f4acdd",
       "repoHash": "f8fc8bf1",
-      "figmaHash": "f8fc8bf1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f8fc8bf1"
     },
     {
       "kind": "token",
       "driftId": "var/f07cc002-632a-42e9-b15f-77ce9c92ca29",
       "repoHash": "3c930da1",
-      "figmaHash": "3c930da1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "3c930da1"
     },
     {
       "kind": "token",
       "driftId": "var/f0ba2729-e870-415a-a0bd-93a13f3c2b9b",
       "repoHash": "84dbb941",
-      "figmaHash": "84dbb941",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "84dbb941"
     },
     {
       "kind": "token",
       "driftId": "var/f12883a6-8151-4aff-8ac7-2e5b03d06bde",
       "repoHash": "6d0cbdc6",
-      "figmaHash": "6d0cbdc6",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6d0cbdc6"
     },
     {
       "kind": "token",
       "driftId": "var/f1760d87-b7c1-4124-b252-5da4595738af",
       "repoHash": "8369042b",
-      "figmaHash": "8369042b",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "8369042b"
     },
     {
       "kind": "token",
       "driftId": "var/f22869fc-8581-4508-88c7-f6b6a818de6f",
       "repoHash": "73fce6f1",
-      "figmaHash": "73fce6f1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "73fce6f1"
     },
     {
       "kind": "token",
       "driftId": "var/f3166a84-fee8-44f6-ac55-56c3bb05bed6",
       "repoHash": "61ea5c5c",
-      "figmaHash": "61ea5c5c",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "61ea5c5c"
     },
     {
       "kind": "token",
       "driftId": "var/f32f4634-3c29-4bde-a329-b991a5ef6f3a",
       "repoHash": "2a414d0d",
-      "figmaHash": "2a414d0d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "2a414d0d"
     },
     {
       "kind": "token",
       "driftId": "var/f3546cf4-100c-4a8f-ba9d-91f63c3fb6c2",
       "repoHash": "4683b783",
-      "figmaHash": "4683b783",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "4683b783"
     },
     {
       "kind": "token",
       "driftId": "var/f376c21d-870f-424b-b530-00e9ef430973",
       "repoHash": "e7b5ee02",
-      "figmaHash": "e7b5ee02",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e7b5ee02"
     },
     {
       "kind": "token",
       "driftId": "var/f49bf384-b085-4a40-86b8-047a6cd6a50b",
       "repoHash": "7b968f7f",
-      "figmaHash": "7b968f7f",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "7b968f7f"
     },
     {
       "kind": "token",
       "driftId": "var/f4c50d23-7586-4f9f-a09e-ea7cf7fc13ee",
       "repoHash": "b29c54fd",
-      "figmaHash": "b29c54fd",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "b29c54fd"
     },
     {
       "kind": "token",
       "driftId": "var/f60756ec-7863-4f4f-81ab-12093a046d8e",
       "repoHash": "fb6ba7d1",
-      "figmaHash": "fb6ba7d1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "fb6ba7d1"
     },
     {
       "kind": "token",
       "driftId": "var/f63ef011-1a1c-4ad3-8236-be5aa3a64188",
       "repoHash": "7601da71",
-      "figmaHash": "7601da71",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "7601da71"
     },
     {
       "kind": "token",
       "driftId": "var/f653b454-8fda-4519-864f-8d819e1269b9",
       "repoHash": "d50cee08",
-      "figmaHash": "d50cee08",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d50cee08"
     },
     {
       "kind": "token",
       "driftId": "var/f68c83ab-1469-42de-8415-5340c81cb2da",
       "repoHash": "92d056a1",
-      "figmaHash": "92d056a1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "92d056a1"
     },
     {
       "kind": "token",
       "driftId": "var/f6db4b35-b57b-4fc3-90ad-b365274262ba",
       "repoHash": "419666c1",
-      "figmaHash": "419666c1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "419666c1"
     },
     {
       "kind": "token",
       "driftId": "var/f6de3a85-cb7a-42d7-89a1-935a38ce815d",
       "repoHash": "6a2f7969",
-      "figmaHash": "6a2f7969",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "6a2f7969"
     },
     {
       "kind": "token",
       "driftId": "var/f732cbee-f3b6-4ec8-912f-d2a337c311b3",
       "repoHash": "419666c1",
-      "figmaHash": "419666c1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "419666c1"
     },
     {
       "kind": "token",
       "driftId": "var/f77ca8a8-01de-4a9e-b606-00e4e9dc6c41",
       "repoHash": "53ba4f71",
-      "figmaHash": "53ba4f71",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "53ba4f71"
     },
     {
       "kind": "token",
       "driftId": "var/f7829816-0605-4c8d-8b30-36f2ddf32640",
       "repoHash": "f8fc8bf1",
-      "figmaHash": "f8fc8bf1",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f8fc8bf1"
     },
     {
       "kind": "token",
       "driftId": "var/f83d7794-c5c0-4392-9a75-29568a04c609",
       "repoHash": "e7b5ee02",
-      "figmaHash": "e7b5ee02",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e7b5ee02"
     },
     {
       "kind": "token",
       "driftId": "var/f8d05518-a209-4761-917d-85dd2d137720",
       "repoHash": "f8548f9d",
-      "figmaHash": "f8548f9d",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f8548f9d"
     },
     {
       "kind": "token",
       "driftId": "var/f8f09ac8-f702-4cce-8f82-cd3f8a39a895",
       "repoHash": "d0cf4f63",
-      "figmaHash": "d0cf4f63",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "d0cf4f63"
     },
     {
       "kind": "token",
       "driftId": "var/f926a3e8-9934-4491-8799-a07c4fc3bcbf",
       "repoHash": "a280bf25",
-      "figmaHash": "a280bf25",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "a280bf25"
     },
     {
       "kind": "token",
       "driftId": "var/fb9c188c-4904-4704-9915-cb30d17c13ce",
       "repoHash": "e636e049",
-      "figmaHash": "e636e049",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e636e049"
     },
     {
       "kind": "token",
       "driftId": "var/fba0dfcd-4d3e-46ef-b431-0bacec34ab63",
       "repoHash": "e7b5ee02",
-      "figmaHash": "e7b5ee02",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "e7b5ee02"
     },
     {
       "kind": "token",
       "driftId": "var/fcc3b1d3-e200-4a5c-bd01-8362ac992af8",
       "repoHash": "f71163cb",
-      "figmaHash": "f71163cb",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f71163cb"
     },
     {
       "kind": "token",
       "driftId": "var/fce8d8fc-bc01-476f-afb9-0316e726580f",
       "repoHash": "27a838a0",
-      "figmaHash": "27a838a0",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "27a838a0"
     },
     {
       "kind": "token",
       "driftId": "var/fd691862-c482-4d38-8f85-8675d7e8e20c",
       "repoHash": "4a3afda9",
-      "figmaHash": "4a3afda9",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "4a3afda9"
     },
     {
       "kind": "token",
       "driftId": "var/fdb1a791-f764-4151-b87c-b0d22871aede",
       "repoHash": "f1c3c0cf",
-      "figmaHash": "f1c3c0cf",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "f1c3c0cf"
     },
     {
       "kind": "token",
       "driftId": "var/fe3b37d0-7d77-4241-a2d9-949d25b40ea1",
       "repoHash": "49857e89",
-      "figmaHash": "49857e89",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "49857e89"
     },
     {
       "kind": "token",
       "driftId": "var/fe796bc1-5335-44d1-91d2-ccb3a5b74b46",
       "repoHash": "9fc67d61",
-      "figmaHash": "9fc67d61",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "9fc67d61"
     },
     {
       "kind": "token",
       "driftId": "var/ff1ab006-ce3e-485d-b523-52ee3e079f97",
       "repoHash": "228eb870",
-      "figmaHash": "228eb870",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "228eb870"
     }
   ]
 }
