@@ -2,7 +2,7 @@
   "v": 1,
   "kind": "fighub-manifest",
   "sha": "",
-  "writtenAt": "2026-07-27T20:45:48.786Z",
+  "writtenAt": "2026-09-11T17:41:03.087Z",
   "items": [
     {
       "kind": "style",
@@ -45,12 +45,6 @@
       "driftId": "sty/effect/web-(tailwind)-blur-xs",
       "repoHash": "1c06f619",
       "figmaHash": "1c06f619"
-    },
-    {
-      "kind": "style",
-      "driftId": "sty/effect/web-(tailwind)-focus-ring",
-      "repoHash": "9de1dac7",
-      "figmaHash": "9de1dac7"
     },
     {
       "kind": "style",
@@ -741,6 +735,14 @@
       "driftId": "var/3c320199-38a0-471b-ae4c-de788b774c23",
       "repoHash": "056a43e7",
       "figmaHash": "056a43e7"
+    },
+    {
+      "kind": "token",
+      "driftId": "var/3dc318c4-3e70-4346-aabe-0ef48e3f843e",
+      "repoHash": "0d0145fe",
+      "figmaHash": "0d0145fe",
+      "repoPath": "fighub/tokens.json",
+      "sidecarAdopted": true
     },
     {
       "kind": "token",
@@ -1778,9 +1780,7 @@
       "kind": "token",
       "driftId": "var/b48a3b4b-2dae-4bd5-923f-305798862e29",
       "repoHash": "848d3857",
-      "figmaHash": "848d3857",
-      "repoPath": "fighub/tokens.json",
-      "sidecarAdopted": true
+      "figmaHash": "848d3857"
     },
     {
       "kind": "token",
@@ -2285,6 +2285,14 @@
       "driftId": "var/e76c2197-4dec-441f-b276-48c7e9c954a6",
       "repoHash": "1b232581",
       "figmaHash": "1b232581"
+    },
+    {
+      "kind": "token",
+      "driftId": "var/e8e14a99-a55b-4fce-8321-47950af3add5",
+      "repoHash": "61ea5c5c",
+      "figmaHash": "61ea5c5c",
+      "repoPath": "fighub/tokens.json",
+      "sidecarAdopted": true
     },
     {
       "kind": "token",
